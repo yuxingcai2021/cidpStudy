@@ -1,0 +1,32 @@
+10:00:08.005 [main] INFO  com.bmw.seed.service.impl.UserServiceImplTest - Starting UserServiceImplTest on LAPTOP-E6B2N0T6 with PID 3600 (started by yuxc in E:\yuxc\xyz\bimowu-Study\bimowu)
+10:00:08.020 [main] INFO  com.bmw.seed.service.impl.UserServiceImplTest - No active profile set, falling back to default profiles: default
+10:00:13.125 [main] INFO  com.bmw.seed.service.impl.UserServiceImplTest - Started UserServiceImplTest in 5.743 seconds (JVM running for 7.182)
+10:00:13.560 [pool-3-thread-3] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+10:00:13.927 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.UserServiceImpl - ===?????????????===
+10:00:13.930 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.UserServiceImpl - ===?????????????===
+10:00:13.930 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.UserServiceImplTest - pool-3-thread-3??????????????§µ?6
+10:00:13.932 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.UserServiceImplTest - pool-3-thread-4??????????????§µ?6
+10:00:13.932 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.UserServiceImpl - ===?????????????===
+10:00:13.934 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.UserServiceImplTest - pool-3-thread-2??????????????§µ?6
+10:00:13.936 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.UserServiceImpl - ===?????????????===
+10:00:13.938 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.UserServiceImplTest - pool-3-thread-1??????????????§µ?6
+10:00:13.938 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.UserServiceImpl - ===?????????????===
+10:00:13.940 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.UserServiceImplTest - pool-3-thread-5??????????????§µ?6
+10:00:23.565 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+10:00:23.575 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+10:02:43.706 [main] INFO  com.bmw.seed.service.impl.UserServiceImplTest - Starting UserServiceImplTest on LAPTOP-E6B2N0T6 with PID 19100 (started by yuxc in E:\yuxc\xyz\bimowu-Study\bimowu)
+10:02:43.715 [main] INFO  com.bmw.seed.service.impl.UserServiceImplTest - No active profile set, falling back to default profiles: default
+10:02:49.322 [main] INFO  com.bmw.seed.service.impl.UserServiceImplTest - Started UserServiceImplTest in 6.199 seconds (JVM running for 7.591)
+10:02:49.768 [pool-3-thread-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+10:02:50.166 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.UserServiceImplTest - pool-3-thread-1??????????????§µ?10
+10:02:50.166 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.UserServiceImplTest - pool-3-thread-2??????????????§µ?10
+10:02:59.678 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+10:02:59.690 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+13:39:42.334 [main] INFO  com.bmw.seed.service.impl.UserServiceImplTest - Starting UserServiceImplTest on LAPTOP-E6B2N0T6 with PID 18920 (started by yuxc in E:\yuxc\xyz\bimowu-Study\bimowu)
+13:39:42.343 [main] INFO  com.bmw.seed.service.impl.UserServiceImplTest - No active profile set, falling back to default profiles: default
+13:39:46.421 [main] INFO  com.bmw.seed.service.impl.UserServiceImplTest - Started UserServiceImplTest in 4.62 seconds (JVM running for 5.636)
+13:39:49.949 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+13:40:09.619 [main] INFO  com.bmw.seed.service.impl.UserServiceImplTest - Starting UserServiceImplTest on LAPTOP-E6B2N0T6 with PID 13676 (started by yuxc in E:\yuxc\xyz\bimowu-Study\bimowu)
+13:40:09.626 [main] INFO  com.bmw.seed.service.impl.UserServiceImplTest - No active profile set, falling back to default profiles: default
+13:40:13.819 [main] INFO  com.bmw.seed.service.impl.UserServiceImplTest - Started UserServiceImplTest in 4.695 seconds (JVM running for 5.655)
+13:40:14.240 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...

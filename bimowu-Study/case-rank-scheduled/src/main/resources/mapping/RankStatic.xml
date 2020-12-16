@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.bmw.seed.dao.RankStaticDao">
+
+    <resultMap id="Rank" type="com.bmw.seed.util.bean.RankResp">
+        <result column="phone" property="phone"/>
+        <result column="amount" property="amount"/>
+    </resultMap>
+    <select id="getRankStatic" resultMap="Rank" >
+           select  u.phone phone,  sum(o.order_amount) amount
+            from r_user u
+            JOIN  r_order o on user_id=u.id
+            GROUP BY phone
+            ORDER BY sum(o.order_amount)  DESC
+            LIMIT 10
+    </select>
+
+</mapper>

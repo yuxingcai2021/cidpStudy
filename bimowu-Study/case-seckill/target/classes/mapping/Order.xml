@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.bmw.seed.dao.SeckillOrderDao">
+
+    <resultMap id="Product" type="com.bmw.seed.model.SeckillOrder">
+        <result column="user_id" property="userId"/>
+        <result column="product_id" property="productId"/>
+        <result column="product_name" property="productName"/>
+        <result column="create_time" property="createTime"/>
+
+    </resultMap>
+    <sql id="order">
+        id,
+        user_id,
+        product_id,
+        product_name,
+        create_time
+    </sql>
+
+
+    <!-- 添加 -->
+    <insert id="insert" parameterType="com.bmw.seed.model.SeckillOrder">
+        INSERT INTO seckill_order
+        (
+        id,
+        user_id,
+        product_id,
+        product_name,
+        create_time
+        )
+        VALUES
+        (
+        #{id},
+        #{userId},
+        #{productId},
+        #{productName},
+        #{createTime}
+        )
+        <selectKey keyProperty="id" resultType="Long" order="AFTER">
+            select LAST_INSERT_ID()
+        </selectKey>
+    </insert>
+    
+    <select id="list" resultType="com.bmw.seed.model.SeckillOrder">
+        select
+        <include refid="order"></include>
+        from
+        seckill_order
+        where product_id = #{productId}
+        and  user_id = #{userId}
+    </select>
+
+
+</mapper>

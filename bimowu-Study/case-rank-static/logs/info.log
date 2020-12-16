@@ -1,0 +1,18 @@
+16:30:20.220 [main] INFO  com.bmw.seed.test.DemoTest - Starting DemoTest on LAPTOP-E6B2N0T6 with PID 16396 (started by yuxc in E:\yuxc\xyz\bimowu-Study\case-rank-static)
+16:30:20.226 [main] INFO  com.bmw.seed.test.DemoTest - No active profile set, falling back to default profiles: default
+16:30:23.888 [main] INFO  com.bmw.seed.test.DemoTest - Started DemoTest in 4.181 seconds (JVM running for 5.242)
+16:30:24.264 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+16:30:24.565 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+16:30:24.575 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+16:32:31.477 [main] INFO  com.bmw.seed.test.DemoTest - Starting DemoTest on LAPTOP-E6B2N0T6 with PID 5252 (started by yuxc in E:\yuxc\xyz\bimowu-Study\case-rank-static)
+16:32:31.493 [main] INFO  com.bmw.seed.test.DemoTest - No active profile set, falling back to default profiles: default
+16:32:35.068 [main] INFO  com.bmw.seed.test.DemoTest - Started DemoTest in 4.114 seconds (JVM running for 5.163)
+16:32:35.410 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+16:32:35.708 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+16:32:35.719 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+16:33:50.185 [main] INFO  com.bmw.seed.test.DemoTest - Starting DemoTest on LAPTOP-E6B2N0T6 with PID 17804 (started by yuxc in E:\yuxc\xyz\bimowu-Study\case-rank-static)
+16:33:50.192 [main] INFO  com.bmw.seed.test.DemoTest - No active profile set, falling back to default profiles: default
+16:33:53.612 [main] INFO  com.bmw.seed.test.DemoTest - Started DemoTest in 3.902 seconds (JVM running for 4.954)
+16:33:54.018 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+16:33:54.351 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+16:33:54.363 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed

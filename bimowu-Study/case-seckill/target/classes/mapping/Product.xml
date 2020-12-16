@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.bmw.seed.dao.SeckillProductDao">
+
+    <resultMap id="Product" type="com.bmw.seed.model.SeckillProducts">
+        <result column="name" property="name"/>
+        <result column="count" property="count"/>
+        <result column="saled" property="saled"/>
+        <result column="create_time" property="createTime"/>
+        <result column="is_deleted" property="isDeleted"/>
+
+    </resultMap>
+    <sql id="pro">
+        id,
+        name,
+        count,
+        saled,
+        create_time,
+        is_deleted
+    </sql>
+
+    <!--根据id查询-->
+    <select id="selectProById" parameterType="java.lang.Long" resultType="int">
+        select
+        count(*)
+        from seckill_products
+        where id = #{id}
+    </select>
+
+    <!--根据id查询全部信息-->
+    <select id="fetch" parameterType="java.lang.Long" resultMap="Product">
+        select
+        <include refid="pro"></include>
+        from seckill_products
+        where id = #{productId}
+    </select>
+
+    <update id="updateByPrimaryKeySelective" parameterType="com.bmw.seed.model.SeckillProducts">
+        UPDATE seckill_products
+        <set>
+            <if test="name != null and name != ''">
+                name = #{name},
+            </if>
+            <if test="count != null">
+                count = #{count},
+            </if>
+            <if test="saled != null">
+                saled = #{saled},
+            </if>
+            <if test="createTime != null">
+                create_time = #{createTime},
+            </if>
+            <if test="isDeleted != null">
+                is_deleted = #{isDeleted},
+            </if>
+
+        </set>
+        WHERE id = #{id}
+    </update>
+
+    <!--使用数据库乐观锁来实现-->
+    <update id="updateStockByOptimistic" parameterType="java.lang.Long">
+        update seckill_products
+        set saled = saled+1
+        where id = #{id}
+        and saled &lt; count
+    </update>
+</mapper>

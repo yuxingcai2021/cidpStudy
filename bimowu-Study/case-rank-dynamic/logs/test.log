@@ -1,0 +1,157 @@
+17:59:12.039 [main] INFO  com.bmw.seed.test.DemoTest - Starting DemoTest on LAPTOP-E6B2N0T6 with PID 5212 (started by yuxc in E:\yuxc\xyz\bimowu-Study\case-rank-dynamic)
+17:59:12.046 [main] DEBUG com.bmw.seed.test.DemoTest - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+17:59:12.047 [main] INFO  com.bmw.seed.test.DemoTest - No active profile set, falling back to default profiles: default
+17:59:13.444 [main] DEBUG org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+17:59:13.510 [main] DEBUG org.apache.ibatis.io.VFS - Using VFS adapter org.mybatis.spring.boot.autoconfigure.SpringBootVFS
+17:59:13.512 [main] DEBUG org.apache.ibatis.io.ResolverUtil - Checking to see if class com.bmw.seed.model.Demo matches criteria [is assignable to Object]
+17:59:13.512 [main] DEBUG org.apache.ibatis.io.ResolverUtil - Checking to see if class com.bmw.seed.model.Order matches criteria [is assignable to Object]
+17:59:13.513 [main] DEBUG org.apache.ibatis.io.ResolverUtil - Checking to see if class com.bmw.seed.model.User matches criteria [is assignable to Object]
+17:59:13.721 [main] DEBUG io.netty.util.internal.logging.InternalLoggerFactory - Using SLF4J as the default logging framework
+17:59:13.726 [main] DEBUG io.lettuce.core.resource.DefaultClientResources - -Dio.netty.eventLoopThreads: 16
+17:59:13.732 [main] DEBUG io.lettuce.core.resource.DefaultEventLoopGroupProvider - Creating executor io.netty.util.concurrent.DefaultEventExecutorGroup
+17:59:13.752 [main] DEBUG io.netty.util.internal.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+17:59:13.752 [main] DEBUG io.netty.util.internal.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+17:59:13.757 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+17:59:13.757 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.targetRecords: 4
+17:59:13.773 [main] DEBUG io.netty.util.internal.PlatformDependent - Platform: Windows
+17:59:13.775 [main] DEBUG io.netty.util.internal.PlatformDependent0 - -Dio.netty.noUnsafe: false
+17:59:13.775 [main] DEBUG io.netty.util.internal.PlatformDependent0 - Java version: 8
+17:59:13.776 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+17:59:13.776 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+17:59:13.777 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.Buffer.address: available
+17:59:13.778 [main] DEBUG io.netty.util.internal.PlatformDependent0 - direct buffer constructor: available
+17:59:13.778 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.Bits.unaligned: available, true
+17:59:13.779 [main] DEBUG io.netty.util.internal.PlatformDependent0 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+17:59:13.779 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, int): available
+17:59:13.779 [main] DEBUG io.netty.util.internal.PlatformDependent - sun.misc.Unsafe: available
+17:59:13.779 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.tmpdir: C:\Users\yuxc\AppData\Local\Temp (java.io.tmpdir)
+17:59:13.780 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+17:59:13.781 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.maxDirectMemory: 3666870272 bytes
+17:59:13.781 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+17:59:13.782 [main] DEBUG io.netty.util.internal.CleanerJava6 - java.nio.ByteBuffer.cleaner(): available
+17:59:13.782 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.noPreferDirect: false
+17:59:13.782 [main] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@14982a82
+17:59:13.789 [main] DEBUG io.netty.util.internal.PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+17:59:13.799 [main] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+17:59:13.870 [main] DEBUG io.lettuce.core.resource.DefaultClientResources - LatencyUtils/HdrUtils are not available, metrics are disabled
+17:59:13.936 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numHeapArenas: 32
+17:59:13.936 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numDirectArenas: 32
+17:59:13.936 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.pageSize: 8192
+17:59:13.936 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxOrder: 11
+17:59:13.936 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.chunkSize: 16777216
+17:59:13.936 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.tinyCacheSize: 512
+17:59:13.936 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.smallCacheSize: 256
+17:59:13.936 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.normalCacheSize: 64
+17:59:13.936 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+17:59:13.936 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimInterval: 8192
+17:59:13.936 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+17:59:13.937 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.useCacheForAllThreads: true
+17:59:13.937 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+17:59:14.360 [main] DEBUG org.hibernate.validator.internal.engine.resolver.TraversableResolvers - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+17:59:14.360 [main] DEBUG org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator - Loaded expression factory via original TCCL
+17:59:14.368 [main] DEBUG org.hibernate.validator.internal.engine.resolver.TraversableResolvers - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+17:59:14.369 [main] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+17:59:14.370 [main] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+17:59:14.371 [main] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+17:59:14.373 [main] DEBUG org.hibernate.validator.internal.xml.config.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+17:59:14.373 [main] DEBUG org.hibernate.validator.internal.xml.config.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+17:59:14.373 [main] DEBUG org.hibernate.validator.internal.xml.config.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+17:59:14.374 [main] DEBUG org.hibernate.validator.internal.xml.config.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+17:59:14.374 [main] DEBUG org.hibernate.validator.internal.xml.config.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+17:59:14.382 [main] DEBUG org.hibernate.validator.internal.engine.ValidatorFactoryImpl - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+17:59:14.383 [main] DEBUG org.hibernate.validator.internal.engine.ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+17:59:14.383 [main] DEBUG org.hibernate.validator.internal.engine.ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+17:59:14.383 [main] DEBUG org.hibernate.validator.internal.engine.ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+17:59:14.383 [main] DEBUG org.hibernate.validator.internal.engine.ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+17:59:15.634 [main] INFO  com.bmw.seed.test.DemoTest - Started DemoTest in 4.081 seconds (JVM running for 5.127)
+17:59:16.028 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+17:59:16.207 [main] DEBUG com.bmw.seed.dao.RankDynamic.getData - ==>  Preparing: select u.phone phone, sum(o.order_amount) amount from r_user u JOIN r_order o on user_id=u.id GROUP BY phone ORDER BY sum(o.order_amount) DESC LIMIT 10 
+17:59:16.238 [main] DEBUG com.bmw.seed.dao.RankDynamic.getData - ==> Parameters: 
+17:59:16.271 [main] DEBUG com.bmw.seed.dao.RankDynamic.getData - <==      Total: 10
+17:59:16.285 [main] DEBUG io.lettuce.core.RedisClient - Trying to get a Redis connection for: RedisURI [host='localhost', port=6379]
+17:59:16.400 [main] INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+17:59:16.402 [main] INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+17:59:16.404 [main] DEBUG io.lettuce.core.resource.DefaultEventLoopGroupProvider - Allocating executor io.netty.channel.nio.NioEventLoopGroup
+17:59:16.404 [main] DEBUG io.lettuce.core.resource.DefaultEventLoopGroupProvider - Creating executor io.netty.channel.nio.NioEventLoopGroup
+17:59:16.406 [main] DEBUG io.netty.channel.MultithreadEventLoopGroup - -Dio.netty.eventLoopThreads: 32
+17:59:16.412 [main] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.noKeySetOptimization: false
+17:59:16.412 [main] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+17:59:16.677 [main] DEBUG io.lettuce.core.resource.DefaultEventLoopGroupProvider - Adding reference to io.netty.channel.nio.NioEventLoopGroup@20256a0b, existing ref count 0
+17:59:16.691 [main] DEBUG io.lettuce.core.RedisClient - Resolved SocketAddress localhost:6379 using RedisURI [host='localhost', port=6379]
+17:59:16.691 [main] DEBUG io.lettuce.core.RedisClient - Connecting to Redis at localhost:6379
+17:59:16.696 [main] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.processId: 5212 (auto-detected)
+17:59:16.699 [main] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv4Stack: false
+17:59:16.699 [main] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv6Addresses: false
+17:59:16.896 [main] DEBUG io.netty.util.NetUtil - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+17:59:16.896 [main] DEBUG io.netty.util.NetUtil - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+17:59:17.119 [main] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.machineId: 5c:ba:ef:ff:fe:2a:97:69 (auto-detected)
+17:59:17.136 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.allocator.type: pooled
+17:59:17.136 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.threadLocalDirectBufferSize: 0
+17:59:17.136 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+17:59:17.153 [lettuce-nioEventLoop-4-1] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+17:59:17.153 [lettuce-nioEventLoop-4-1] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+17:59:17.153 [lettuce-nioEventLoop-4-1] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.linkCapacity: 16
+17:59:17.153 [lettuce-nioEventLoop-4-1] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+17:59:17.159 [lettuce-nioEventLoop-4-1] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkAccessible: true
+17:59:17.159 [lettuce-nioEventLoop-4-1] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkBounds: true
+17:59:17.160 [lettuce-nioEventLoop-4-1] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@5eaa7663
+17:59:17.176 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.CommandHandler - [channel=0x178310db, [id: 0x81ef6826] (inactive), chid=0x1] channelRegistered()
+17:59:17.181 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.CommandHandler - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379, chid=0x1] channelActive()
+17:59:17.182 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.DefaultEndpoint - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379, epid=0x1] activateEndpointAndExecuteBufferedCommands 0 command(s) buffered
+17:59:17.182 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.DefaultEndpoint - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379, epid=0x1] activating endpoint
+17:59:17.182 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.DefaultEndpoint - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379, epid=0x1] flushCommands()
+17:59:17.182 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.DefaultEndpoint - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379, epid=0x1] flushCommands() Flushing 0 commands
+17:59:17.183 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.ConnectionWatchdog - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379, last known addr=localhost/127.0.0.1:6379] channelActive()
+17:59:17.183 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.ConnectionWatchdog - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379, last known addr=localhost/127.0.0.1:6379] channelActive()
+17:59:17.183 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.CommandHandler - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379, chid=0x1] channelActive() done
+17:59:17.184 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.RedisClient - Connecting to Redis at localhost:6379: Success
+17:59:17.187 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.ConnectionWatchdog - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379, last known addr=localhost/127.0.0.1:6379] userEventTriggered(ctx, io.lettuce.core.ConnectionEvents$Activated@206d3847)
+17:59:17.188 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.ConnectionWatchdog - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379, last known addr=localhost/127.0.0.1:6379] userEventTriggered(ctx, io.lettuce.core.ConnectionEvents$Activated@206d3847)
+17:59:17.190 [main] DEBUG io.lettuce.core.RedisChannelHandler - dispatching command AsyncCommand [type=ZINCRBY, output=DoubleOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+17:59:17.192 [main] DEBUG io.lettuce.core.protocol.DefaultEndpoint - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379, epid=0x1] write() writeAndFlush command AsyncCommand [type=ZINCRBY, output=DoubleOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+17:59:17.193 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.CommandHandler - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379, chid=0x1] write(ctx, AsyncCommand [type=ZINCRBY, output=DoubleOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command], promise)
+17:59:17.194 [main] DEBUG io.lettuce.core.protocol.DefaultEndpoint - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379, epid=0x1] write() done
+17:59:17.198 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.CommandEncoder - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379] writing command AsyncCommand [type=ZINCRBY, output=DoubleOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+17:59:17.201 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.CommandHandler - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379, chid=0x1] Received: 25 bytes, 1 commands in the stack
+17:59:17.202 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.CommandHandler - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379, chid=0x1] Stack contains: 1 commands
+17:59:17.202 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.RedisStateMachine - Decode AsyncCommand [type=ZINCRBY, output=DoubleOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+17:59:17.203 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.RedisStateMachine - Decoded AsyncCommand [type=ZINCRBY, output=DoubleOutput [output=455628.64999999997, error='null'], commandType=io.lettuce.core.protocol.Command], empty stack: true
+17:59:17.204 [main] DEBUG io.lettuce.core.RedisChannelHandler - dispatching command AsyncCommand [type=ZINCRBY, output=DoubleOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+17:59:17.204 [main] DEBUG io.lettuce.core.protocol.DefaultEndpoint - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379, epid=0x1] write() writeAndFlush command AsyncCommand [type=ZINCRBY, output=DoubleOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+17:59:17.204 [main] DEBUG io.lettuce.core.protocol.DefaultEndpoint - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379, epid=0x1] write() done
+17:59:17.204 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.CommandHandler - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379, chid=0x1] write(ctx, AsyncCommand [type=ZINCRBY, output=DoubleOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command], promise)
+17:59:17.205 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.CommandEncoder - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379] writing command AsyncCommand [type=ZINCRBY, output=DoubleOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+17:59:17.205 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.CommandHandler - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379, chid=0x1] Received: 15 bytes, 1 commands in the stack
+17:59:17.205 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.CommandHandler - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379, chid=0x1] Stack contains: 1 commands
+17:59:17.206 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.RedisStateMachine - Decode AsyncCommand [type=ZINCRBY, output=DoubleOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+17:59:17.206 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.RedisStateMachine - Decoded AsyncCommand [type=ZINCRBY, output=DoubleOutput [output=423532.25, error='null'], commandType=io.lettuce.core.protocol.Command], empty stack: true
+17:59:17.206 [main] DEBUG io.lettuce.core.RedisChannelHandler - dispatching command AsyncCommand [type=ZINCRBY, output=DoubleOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+17:59:17.206 [main] DEBUG io.lettuce.core.protocol.DefaultEndpoint - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379, epid=0x1] write() writeAndFlush command AsyncCommand [type=ZINCRBY, output=DoubleOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+17:59:17.207 [main] DEBUG io.lettuce.core.protocol.DefaultEndpoint - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379, epid=0x1] write() done
+17:59:17.207 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.CommandHandler - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379, chid=0x1] write(ctx, AsyncCommand [type=ZINCRBY, output=DoubleOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command], promise)
+17:59:17.208 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.CommandEncoder - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379] writing command AsyncCommand [type=ZINCRBY, output=DoubleOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+17:59:17.208 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.CommandHandler - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379, chid=0x1] Received: 25 bytes, 1 commands in the stack
+17:59:17.208 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.CommandHandler - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379, chid=0x1] Stack contains: 1 commands
+17:59:17.208 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.RedisStateMachine - Decode AsyncCommand [type=ZINCRBY, output=DoubleOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+17:59:17.208 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.RedisStateMachine - Decoded AsyncCommand [type=ZINCRBY, output=DoubleOutput [output=404210.05, error='null'], commandType=io.lettuce.core.protocol.Command], empty stack: true
+17:59:17.209 [main] DEBUG io.lettuce.core.RedisChannelHandler - dispatching command AsyncCommand [type=ZINCRBY, output=DoubleOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+17:59:17.209 [main] DEBUG io.lettuce.core.protocol.DefaultEndpoint - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379, epid=0x1] write() writeAndFlush command AsyncCommand [type=ZINCRBY, output=DoubleOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+17:59:17.209 [main] DEBUG io.lettuce.core.protocol.DefaultEndpoint - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379, epid=0x1] write() done
+17:59:17.209 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.CommandHandler - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379, chid=0x1] write(ctx, AsyncCommand [type=ZINCRBY, output=DoubleOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command], promise)
+17:59:17.210 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.CommandEncoder - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379] writing command AsyncCommand [type=ZINCRBY, output=DoubleOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+17:59:17.210 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.CommandHandler - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379, chid=0x1] Received: 25 bytes, 1 commands in the stack
+17:59:17.210 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.CommandHandler - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379, chid=0x1] Stack contains: 1 commands
+17:59:17.210 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.RedisStateMachine - Decode AsyncCommand [type=ZINCRBY, output=DoubleOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+17:59:17.210 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.RedisStateMachine - Decoded AsyncCommand [type=ZINCRBY, output=DoubleOutput [output=390012.30000000005, error='null'], commandType=io.lettuce.core.protocol.Command], empty stack: true
+17:59:17.211 [main] DEBUG io.lettuce.core.RedisChannelHandler - dispatching command AsyncCommand [type=ZINCRBY, output=DoubleOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+17:59:17.211 [main] DEBUG io.lettuce.core.protocol.DefaultEndpoint - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379, epid=0x1] write() writeAndFlush command AsyncCommand [type=ZINCRBY, output=DoubleOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+17:59:17.211 [main] DEBUG io.lettuce.core.protocol.DefaultEndpoint - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379, epid=0x1] write() done
+17:59:17.211 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.CommandHandler - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379, chid=0x1] write(ctx, AsyncCommand [type=ZINCRBY, output=DoubleOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command], promise)
+17:59:17.211 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.CommandEncoder - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379] writing command AsyncCommand [type=ZINCRBY, output=DoubleOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+17:59:17.212 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.CommandHandler - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379, chid=0x1] Received: 25 bytes, 1 commands in the stack
+17:59:17.212 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.CommandHandler - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379, chid=0x1] Stack contains: 1 commands
+17:59:17.212 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.RedisStateMachine - Decode AsyncCommand [type=ZINCRBY, output=DoubleOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+17:59:17.212 [lettuce-nioEventLoop-4-1] DEBUG io.lettuce.core.protocol.RedisStateMachine - Decoded AsyncCommand [type=ZINCRBY, output=DoubleOutput [output=369820.44999999995, error='null'], commandType=io.lettuce.core.protocol.Command], empty stack: true
+17:59:17.212 [main] DEBUG io.lettuce.core.RedisChannelHandler - dispatching command AsyncCommand [type=ZINCRBY, output=DoubleOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+17:59:17.212 [main] DEBUG io.lettuce.core.protocol.DefaultEndpoint - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379, epid=0x1] write() writeAndFlush command AsyncCommand [type=ZINCRBY, output=DoubleOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+17:59:17.213 [main] DEBUG io.lettuce.core.protocol.DefaultEndpoint - [channel=0x178310db, /127.0.0.1:58336 -> localhost/127.0.0.1:6379, epid=0x1] write() done

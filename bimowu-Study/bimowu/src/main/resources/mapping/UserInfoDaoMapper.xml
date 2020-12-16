@@ -1,0 +1,38 @@
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.bmw.seed.dao.UserInfoDao">
+    <!--表迁移-->
+    <insert id="transfer">
+        insert into user_info
+        select
+        id,name,sex,phone,create_time
+        from user_info_bak
+    </insert>
+
+    <!--查询被插入表的数据条数-->
+    <select id="countTotal" resultType="int">
+        select
+        count(*)
+        from user_info
+    </select>
+
+    <!--查询表的数据条数-->
+    <select id="countTotalBak" resultType="int">
+        select
+        count(*)
+        from user_info_bak
+    </select>
+
+    <!-- cursorPage 分页查询-->
+    <select id="cursorPage" parameterType="com.bmw.seed.util.bean.CursorPageReq" resultType="UserInfo">
+        SELECT
+        *
+        from user_info
+        where id  &gt;= #{req.cursor}
+        order by id desc
+        <if test="req.cursor != null">
+                limit #{req.pageSize}
+        </if>
+    </select>
+</mapper>

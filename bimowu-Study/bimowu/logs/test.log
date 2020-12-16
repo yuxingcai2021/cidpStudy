@@ -1,0 +1,115 @@
+13:40:09.619 [main] INFO  com.bmw.seed.service.impl.UserServiceImplTest - Starting UserServiceImplTest on LAPTOP-E6B2N0T6 with PID 13676 (started by yuxc in E:\yuxc\xyz\bimowu-Study\bimowu)
+13:40:09.625 [main] DEBUG com.bmw.seed.service.impl.UserServiceImplTest - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+13:40:09.626 [main] INFO  com.bmw.seed.service.impl.UserServiceImplTest - No active profile set, falling back to default profiles: default
+13:40:11.030 [main] DEBUG org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+13:40:11.121 [main] DEBUG org.apache.ibatis.io.VFS - Using VFS adapter org.mybatis.spring.boot.autoconfigure.SpringBootVFS
+13:40:11.123 [main] DEBUG org.apache.ibatis.io.ResolverUtil - Checking to see if class com.bmw.seed.model.Demo matches criteria [is assignable to Object]
+13:40:11.123 [main] DEBUG org.apache.ibatis.io.ResolverUtil - Checking to see if class com.bmw.seed.model.User matches criteria [is assignable to Object]
+13:40:11.124 [main] DEBUG org.apache.ibatis.io.ResolverUtil - Checking to see if class com.bmw.seed.model.UserInfo matches criteria [is assignable to Object]
+13:40:11.360 [main] DEBUG io.netty.util.internal.logging.InternalLoggerFactory - Using SLF4J as the default logging framework
+13:40:11.365 [main] DEBUG io.lettuce.core.resource.DefaultClientResources - -Dio.netty.eventLoopThreads: 16
+13:40:11.371 [main] DEBUG io.lettuce.core.resource.DefaultEventLoopGroupProvider - Creating executor io.netty.util.concurrent.DefaultEventExecutorGroup
+13:40:11.390 [main] DEBUG io.netty.util.internal.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+13:40:11.390 [main] DEBUG io.netty.util.internal.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+13:40:11.396 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+13:40:11.396 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.targetRecords: 4
+13:40:11.412 [main] DEBUG io.netty.util.internal.PlatformDependent - Platform: Windows
+13:40:11.414 [main] DEBUG io.netty.util.internal.PlatformDependent0 - -Dio.netty.noUnsafe: false
+13:40:11.415 [main] DEBUG io.netty.util.internal.PlatformDependent0 - Java version: 8
+13:40:11.415 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+13:40:11.416 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+13:40:11.417 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.Buffer.address: available
+13:40:11.417 [main] DEBUG io.netty.util.internal.PlatformDependent0 - direct buffer constructor: available
+13:40:11.418 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.Bits.unaligned: available, true
+13:40:11.418 [main] DEBUG io.netty.util.internal.PlatformDependent0 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+13:40:11.418 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, int): available
+13:40:11.418 [main] DEBUG io.netty.util.internal.PlatformDependent - sun.misc.Unsafe: available
+13:40:11.419 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.tmpdir: C:\Users\yuxc\AppData\Local\Temp (java.io.tmpdir)
+13:40:11.419 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+13:40:11.420 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.maxDirectMemory: 3666870272 bytes
+13:40:11.421 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+13:40:11.422 [main] DEBUG io.netty.util.internal.CleanerJava6 - java.nio.ByteBuffer.cleaner(): available
+13:40:11.423 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.noPreferDirect: false
+13:40:11.423 [main] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@5c77ba8f
+13:40:11.430 [main] DEBUG io.netty.util.internal.PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+13:40:11.438 [main] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+13:40:11.511 [main] DEBUG io.lettuce.core.resource.DefaultClientResources - LatencyUtils/HdrUtils are not available, metrics are disabled
+13:40:11.574 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numHeapArenas: 32
+13:40:11.575 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numDirectArenas: 32
+13:40:11.575 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.pageSize: 8192
+13:40:11.575 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxOrder: 11
+13:40:11.575 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.chunkSize: 16777216
+13:40:11.575 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.tinyCacheSize: 512
+13:40:11.575 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.smallCacheSize: 256
+13:40:11.575 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.normalCacheSize: 64
+13:40:11.575 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+13:40:11.575 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimInterval: 8192
+13:40:11.575 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+13:40:11.575 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.useCacheForAllThreads: true
+13:40:11.575 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+13:40:12.637 [main] DEBUG org.hibernate.validator.internal.engine.resolver.TraversableResolvers - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+13:40:12.638 [main] DEBUG org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator - Loaded expression factory via original TCCL
+13:40:12.646 [main] DEBUG org.hibernate.validator.internal.engine.resolver.TraversableResolvers - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+13:40:12.647 [main] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+13:40:12.647 [main] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+13:40:12.648 [main] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+13:40:12.649 [main] DEBUG org.hibernate.validator.internal.xml.config.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+13:40:12.649 [main] DEBUG org.hibernate.validator.internal.xml.config.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+13:40:12.650 [main] DEBUG org.hibernate.validator.internal.xml.config.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+13:40:12.650 [main] DEBUG org.hibernate.validator.internal.xml.config.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+13:40:12.650 [main] DEBUG org.hibernate.validator.internal.xml.config.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+13:40:12.657 [main] DEBUG org.hibernate.validator.internal.engine.ValidatorFactoryImpl - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+13:40:12.658 [main] DEBUG org.hibernate.validator.internal.engine.ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+13:40:12.658 [main] DEBUG org.hibernate.validator.internal.engine.ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+13:40:12.658 [main] DEBUG org.hibernate.validator.internal.engine.ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+13:40:12.658 [main] DEBUG org.hibernate.validator.internal.engine.ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+13:40:13.819 [main] INFO  com.bmw.seed.service.impl.UserServiceImplTest - Started UserServiceImplTest in 4.695 seconds (JVM running for 5.655)
+13:40:14.074 [main] DEBUG org.apache.http.client.protocol.RequestAddCookies - CookieSpec selected: default
+13:40:14.088 [main] DEBUG org.apache.http.client.protocol.RequestAuthCache - Auth cache not set in the context
+13:40:14.089 [main] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection request: [route: {}->http://www.baidu.com:80][total kept alive: 0; route allocated: 0 of 50; total allocated: 0 of 300]
+13:40:14.108 [main] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection leased: [id: 0][route: {}->http://www.baidu.com:80][total kept alive: 0; route allocated: 1 of 50; total allocated: 1 of 300]
+13:40:14.111 [main] DEBUG org.apache.http.impl.execchain.MainClientExec - Opening connection {}->http://www.baidu.com:80
+13:40:14.117 [main] DEBUG org.apache.http.impl.conn.DefaultHttpClientConnectionOperator - Connecting to www.baidu.com/39.156.66.14:80
+13:40:14.136 [main] DEBUG org.apache.http.impl.conn.DefaultHttpClientConnectionOperator - Connection established 10.160.156.8:53991<->39.156.66.14:80
+13:40:14.137 [main] DEBUG org.apache.http.impl.conn.DefaultManagedHttpClientConnection - http-outgoing-0: set socket timeout to 5000
+13:40:14.137 [main] DEBUG org.apache.http.impl.execchain.MainClientExec - Executing request GET / HTTP/1.1
+13:40:14.137 [main] DEBUG org.apache.http.impl.execchain.MainClientExec - Target auth state: UNCHALLENGED
+13:40:14.137 [main] DEBUG org.apache.http.impl.execchain.MainClientExec - Proxy auth state: UNCHALLENGED
+13:40:14.139 [main] DEBUG org.apache.http.headers - http-outgoing-0 >> GET / HTTP/1.1
+13:40:14.140 [main] DEBUG org.apache.http.headers - http-outgoing-0 >> Host: www.baidu.com
+13:40:14.140 [main] DEBUG org.apache.http.headers - http-outgoing-0 >> Connection: Keep-Alive
+13:40:14.140 [main] DEBUG org.apache.http.headers - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.9 (Java/1.8.0_261)
+13:40:14.140 [main] DEBUG org.apache.http.headers - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+13:40:14.140 [main] DEBUG org.apache.http.wire - http-outgoing-0 >> "GET / HTTP/1.1[\r][\n]"
+13:40:14.140 [main] DEBUG org.apache.http.wire - http-outgoing-0 >> "Host: www.baidu.com[\r][\n]"
+13:40:14.140 [main] DEBUG org.apache.http.wire - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+13:40:14.140 [main] DEBUG org.apache.http.wire - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.9 (Java/1.8.0_261)[\r][\n]"
+13:40:14.140 [main] DEBUG org.apache.http.wire - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+13:40:14.140 [main] DEBUG org.apache.http.wire - http-outgoing-0 >> "[\r][\n]"
+13:40:14.161 [main] DEBUG org.apache.http.wire - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+13:40:14.161 [main] DEBUG org.apache.http.wire - http-outgoing-0 << "Content-Encoding: gzip[\r][\n]"
+13:40:14.161 [main] DEBUG org.apache.http.wire - http-outgoing-0 << "Content-Length: 1108[\r][\n]"
+13:40:14.161 [main] DEBUG org.apache.http.wire - http-outgoing-0 << "Content-Type: text/html[\r][\n]"
+13:40:14.161 [main] DEBUG org.apache.http.wire - http-outgoing-0 << "Server: bfe[\r][\n]"
+13:40:14.161 [main] DEBUG org.apache.http.wire - http-outgoing-0 << "Date: Mon, 14 Dec 2020 05:40:12 GMT[\r][\n]"
+13:40:14.161 [main] DEBUG org.apache.http.wire - http-outgoing-0 << "[\r][\n]"
+13:40:14.162 [main] DEBUG org.apache.http.wire - http-outgoing-0 << "[0x1f][0x8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0xff][0x94]V[o[0xdc][0xc4][0x17][0xff]K[0xff][0xef]05[0xda][0xa4]U[0xb5][0xeb][0xbd][0xa8]*tmW![0xb4]R[0xc4]C+[0x9a]H[0xf0][0xb4][0x1a][0xcf][0x8c][0xed]i[0xec][0x99]af[0xbc][0xce][0xf2]D$[0x8a]@P[0x2]*[0x17][0x95]"[0x81][0x10]4< 5[0x88]HT)i[0xbf][0xcc]:[0x97]'[0xbe][0x2][0x1a][0xdb][0x9b][0xbd][0xa6][0x15]O[0x9e]9s[0xce][0xef][0xfc][0xce]m[0xc6][0xce][0x85][0xb7]n[0xad][0xae][0xbf]w[0xfb][0x6][0x88]t[0x12]{[0xff][0xff][0x9f]s[0xa1]^[0xbf][0xb3][0xbe][0xb2][0xbe]q[0x7][0xdc]z[0xbb]^[0xf7][0x9c]B[0xe][0x9c][0x88]@[0xec]9[0x9][0xd1][0x10]DZ[0x8b]:y?[0xa5]}[0x17]q[0xa6][0x9][0xd3]u=[0x10][0x4]T[0x1b]W[0x93]-m[0x1b][0xb3].[0x8a][0xa0]TD[0xbb][0xa9][0xe][0xea][0xaf][0xcf][[0xbf][[0xdf]X[0xa9][0xaf][0xf2]D@M[0xfd]x[0xc][0xb0]v[0xc3][0xbd][0x81]CR[0x19][0x8c][0xa4]0[0xce][0xe0]@[0x1][0x6][0x13][0xe2]J[0x12][0x10])[0x89][0xf4][0x9c][0x98][0xb2]M I[0xec]*=[0x88][0x89][0x8a][0x8][0xd1][0xc0][0xb0])Y [0xa5]@$I[0xe0][0x1a][0xaf][0xd7]l[[0xb5][0x1a]>V[0x1a]j[0x8a][0x1a][0x88]'[0xb6][0xb4][0xb3],[0xb3][0x11]D[0x11][0xb1]}[0xcc][0xe5][0x7][0xb6][0xf])N[0x1b][0x9]e[\r][0xa4][0x94][0xe7]h[0xaa]c[0xe2][0x1d]?|[0x9e][0x1f]<[0x1e]>[0xfd]p[0xf8][0xf4][0xb3][0xfe][0xfe]|x[0xf8]S[0xbe][0xf7][0xc7][0xf1][0x8f][0xbf][0x9e]n?p[0xec]R[0xc5][0xb1][0x8b][0xc][0x1][0xc7][0xe7]x[0x0][0xc]+[0xf7][0xb5]f[0xb3][0xd9]D[0xc8][0x3][0xe][0xa6]}@[0xb1][0x9b]I([0x4][0x91]cAebv([0x86]J[0x15][0x82][0xde][0xb4]Zy[0xa0]z[0x1][0x97][0xc9][0x2]Qo[0xe]4[0xe]=[0xe0][0xd0]$[0x4][0x11][0xc5]$[0xe0](U[0xae][0x96])[0x1]J"[0xd7]6[0xf1]6[0xca][0x18]M[0xfc]4[0x9]m[0x1f][0xf7]b[0x1e][0xf2]VC[0xb0][0x10]d[0x14][0xeb][0xc8]m_m[0x82][0x88][0xd0]0[0xd2]n[0xab][0xfd][0x86][0x7][0x1c][0x1b][0xd3][0xbe][0x7][0x1c][0xe3][0xd0][0xb8]([0xbe]E![0x2][0x0][0x91][0xa6][0x9c][0xcd]![0xab][0x8a]e`HS&[0xd2][0xaa],[0x11][0xc5][0x98][0xb0][0xd2][0xb8][0xc8]x[0xf][0xf1][0x84][0x80]>[0x8c]S[0xe2][0xb6][0xce][0xd7][0xa5]#[0x9d][0xb2][0x97][0xce][0xd5][0xb]*[0xb5][0x97][0xa8]H[0xd5][0xef][0xf9][0xe2][0xd5].[0x8d][0x1e][0xc5][[0xaf]V[0xd4][0xac][0xd2])[0xc2][0xf7][0x1c]% [0xab][0xc2][0xb7][0xfc][0x10][0xa8][0x1e][0x15][0xba][0x97]I[0xcb][0xab][0x0](v7[0xb3][0xd2]4[0xc3]g[0xd5][0xa4]B[0x97]0 [0x81][1a[0xa1])[0xc4][0x95]+[0x0][0xa6][0x9a]#[0x9e][0x88][0x98]h[0xe2][0xf2] ([0x4]E]=[0xc7]6[0xae][0x16]8[0xf4]5[0x9b]tX0V[0xa9][0x9f][0xd0][0xc2][0xb9]J+[0xbe][0x93]}=ko[0x8d][0xd0][0x81]cW[0xbd]WuA[0xf5][0xa9][0xda]-5[0x89][0x81]SS[0xc6]H[0xa6][0xc6][0xad]P[0xe5][0xe8]nOKsP[0xf9]I[0x18][0xec]{G[0xdf][0xee][0x9d]~[0xf7][0xcc][0xb1][0xe1][0x1c][0x84]i[0xa6][0x8][0xf2]V[0xbb]3[0x3]Q[\n]"
+13:40:14.162 [main] DEBUG org.apache.http.wire - http-outgoing-0 << "'AJ[0xc9]"[0x90][0x4][0x8a][0x85]4[0x12](&[0x1][0xf2][0x1f][0xf6][0xf2]G[0xcf][0x17][0x1][0xf4][0x17][0x9a][0xf7])&|[0x12][0xe0]d[0xf7][0xe3][0xd3][0x9f][0xbf]Z[0x4][0xa0])[0xf1][0xe1]B[0x90][0xe2]d[\n]"
+13:40:14.162 [main] DEBUG org.apache.http.wire - http-outgoing-0 << "d?[0xff]r[0xb7][0x4]a\!I[0x85]^[0x98][0x96][0xf1][0x8c][0x95]7V[0xcc]C[0xca][0x1a]![\r][0xae][0x17][0xab]%[0x98][0x88][0xae][0x16][0xb1][0x9b][0x94][0xcb][0xb4][0xb0][0xad]uVj[0xed][0x9b][0xb5][0xf6][0xcd])[0x84]Z;[0xa8]u[0x82][0xf1][0x18][0xd6]:[0xb8]u[0xc6][0xb1]@[0xab][0x18][0xc6][0xbe]w[0xfc][0xf0]Y~[0xf8]M[0xc9][0xcf][0x9e] X-0GiB[0x98]nd[0x92]jrqyD[0xdc][0xfa][0xf][0xcc]+[0xd6][0xa9][0xbb]|[0x19][0x10][0x86]8&[0x1b][0xef][0xac][0x99][0xf7][0x81]3[0xc2][0xf4][0xc5][0x8c]2[0xcc][0xb3]F[0xcc][0x11]4WN[0xc3][0xe0]_[0x6]sbE[0xa0]D[0x11]p][0x17]X[0x16][0xb8][0xe][0xac][0xeb][0x16][0xb8][0x6][0xac]%[0xeb][0xd2]e`[0x8d]cu[F[0xb0]l[0x95][0xf1]Z[0xa3][0x80][0xad][0xd1][0x1c][0xc4][0xbe]5[0x11][0xf3][0xf2][0xa5][0xae]c[0xcf][0x16]e6[0xaa][0x84]Kb[0x9f][0xe5][0xcf][0x97][0x94]">[0xca][0xa0]/)([0x9e]([0xd7][0xc2]T[0x89][0x18][0xe][0xae][0x1]?[0xe6]h[0xb3]kyG[0x8f][0xf6][0xf3]_[0xbe][0x1f][0x1e][0xec][0xe6][0xf][0xb6][0xab][0x4]OM[0xda][0xf4][0xc0][0x5]z[0x95][0xb3][0x99]m[0xe6][0x1]G[0x14][0x97]4[0xd7]3[0x11]O[0xc8][0x98][0xa4][0x97][0xdf][0xfb]sx[0xf0]E9[0xf9][0x8b]Z[0x96][0xca][0x9][0xe5][0x15][0x9f][0xa7][0x1a][0xbc]i[0xf6][0x15]11[0xf2][0x84][0x84][0xb7][0x84][0xb8][0x18]t[0xdb][0xcd][0xd6][0xd5]%[0xe6]+[0xd1]-[0xf4][0xca][0xe5]K[0xfb][0x16][0xa7]z`{[0xc3][0xc3][0x17][0xc7]_[0xff]V[0x12][0xc9]?[0xbd][0x9f][0xbf][0xb8]w[0xf2][0xa4][0xb8][0xb]J[0x84]Y^w)d[0x3]:[0x81]R%[0x16][0x89]z@[0x8][0xf6]![0xda][0xf4][0x8e]>[0xda]9[0xd9][0xdd][0xce]w[0xee][0x9f]>[0xfe]d[0x8c]4<[0xf8]}m[0xf5][0xf6][0xc9][0x93][0xed]f[0xa7][0xd9][0xba][0xda][0xc9]w[0xfe][0x1a]y0[0xaf][0xe4]y[0xcf]b[0xa8]Lg[0x8e]B^X[0x10][0xdb][0xbc][0xf5][0xe6][[0xfd];[0xfd][0x1b][0x0][0x0][0xff][0xff]\[0x85]C[0x1]M[0x9][0x0][0x0]"
+13:40:14.167 [main] DEBUG org.apache.http.headers - http-outgoing-0 << HTTP/1.1 200 OK
+13:40:14.167 [main] DEBUG org.apache.http.headers - http-outgoing-0 << Content-Encoding: gzip
+13:40:14.167 [main] DEBUG org.apache.http.headers - http-outgoing-0 << Content-Length: 1108
+13:40:14.167 [main] DEBUG org.apache.http.headers - http-outgoing-0 << Content-Type: text/html
+13:40:14.167 [main] DEBUG org.apache.http.headers - http-outgoing-0 << Server: bfe
+13:40:14.167 [main] DEBUG org.apache.http.headers - http-outgoing-0 << Date: Mon, 14 Dec 2020 05:40:12 GMT
+13:40:14.174 [main] DEBUG org.apache.http.impl.execchain.MainClientExec - Connection can be kept alive indefinitely
+13:40:14.194 [main] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection [id: 0][route: {}->http://www.baidu.com:80] can be kept alive indefinitely
+13:40:14.194 [main] DEBUG org.apache.http.impl.conn.DefaultManagedHttpClientConnection - http-outgoing-0: set socket timeout to 0
+13:40:14.194 [main] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection released: [id: 0][route: {}->http://www.baidu.com:80][total kept alive: 1; route allocated: 1 of 50; total allocated: 1 of 300]
+13:40:14.207 [Thread-2] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager is shutting down
+13:40:14.207 [Thread-2] DEBUG org.apache.http.impl.conn.DefaultManagedHttpClientConnection - http-outgoing-0: Close connection
+13:40:14.208 [Thread-2] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection manager shut down
+13:40:14.213 [Thread-2] DEBUG io.lettuce.core.RedisClient - Initiate shutdown (100, 100, MILLISECONDS)
+13:40:14.228 [Thread-2] DEBUG io.lettuce.core.resource.DefaultClientResources - Initiate shutdown (0, 2, SECONDS)
+13:40:14.230 [Thread-2] DEBUG io.lettuce.core.resource.DefaultEventLoopGroupProvider - Initiate shutdown (0, 2, SECONDS)
+13:40:14.240 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...

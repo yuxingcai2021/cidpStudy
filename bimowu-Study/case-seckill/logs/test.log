@@ -1,0 +1,167 @@
+17:54:29.140 [main] INFO  com.bmw.seed.test.DemoTest - Starting DemoTest on LAPTOP-E6B2N0T6 with PID 14848 (started by yuxc in E:\yuxc\xyz\bimowu-Study\case-seckill)
+17:54:29.145 [main] DEBUG com.bmw.seed.test.DemoTest - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+17:54:29.146 [main] INFO  com.bmw.seed.test.DemoTest - No active profile set, falling back to default profiles: default
+17:54:30.532 [main] DEBUG org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+17:54:30.606 [main] DEBUG org.apache.ibatis.io.VFS - Using VFS adapter org.mybatis.spring.boot.autoconfigure.SpringBootVFS
+17:54:30.608 [main] DEBUG org.apache.ibatis.io.ResolverUtil - Checking to see if class com.bmw.seed.model.Demo matches criteria [is assignable to Object]
+17:54:30.609 [main] DEBUG org.apache.ibatis.io.ResolverUtil - Checking to see if class com.bmw.seed.model.SeckillOrder matches criteria [is assignable to Object]
+17:54:30.610 [main] DEBUG org.apache.ibatis.io.ResolverUtil - Checking to see if class com.bmw.seed.model.SeckillProducts matches criteria [is assignable to Object]
+17:54:30.857 [main] DEBUG io.netty.util.internal.logging.InternalLoggerFactory - Using SLF4J as the default logging framework
+17:54:30.861 [main] DEBUG io.lettuce.core.resource.DefaultClientResources - -Dio.netty.eventLoopThreads: 16
+17:54:30.867 [main] DEBUG io.lettuce.core.resource.DefaultEventLoopGroupProvider - Creating executor io.netty.util.concurrent.DefaultEventExecutorGroup
+17:54:30.887 [main] DEBUG io.netty.util.internal.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+17:54:30.887 [main] DEBUG io.netty.util.internal.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+17:54:30.892 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+17:54:30.892 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.targetRecords: 4
+17:54:30.907 [main] DEBUG io.netty.util.internal.PlatformDependent - Platform: Windows
+17:54:30.908 [main] DEBUG io.netty.util.internal.PlatformDependent0 - -Dio.netty.noUnsafe: false
+17:54:30.909 [main] DEBUG io.netty.util.internal.PlatformDependent0 - Java version: 8
+17:54:30.909 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+17:54:30.910 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+17:54:30.910 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.Buffer.address: available
+17:54:30.911 [main] DEBUG io.netty.util.internal.PlatformDependent0 - direct buffer constructor: available
+17:54:30.911 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.Bits.unaligned: available, true
+17:54:30.911 [main] DEBUG io.netty.util.internal.PlatformDependent0 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+17:54:30.911 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, int): available
+17:54:30.912 [main] DEBUG io.netty.util.internal.PlatformDependent - sun.misc.Unsafe: available
+17:54:30.912 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.tmpdir: C:\Users\yuxc\AppData\Local\Temp (java.io.tmpdir)
+17:54:30.912 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+17:54:30.913 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.maxDirectMemory: 3666870272 bytes
+17:54:30.913 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+17:54:30.915 [main] DEBUG io.netty.util.internal.CleanerJava6 - java.nio.ByteBuffer.cleaner(): available
+17:54:30.915 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.noPreferDirect: false
+17:54:30.915 [main] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@73c9e8e8
+17:54:30.921 [main] DEBUG io.netty.util.internal.PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+17:54:30.927 [main] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+17:54:30.985 [main] DEBUG io.lettuce.core.resource.DefaultClientResources - LatencyUtils/HdrUtils are not available, metrics are disabled
+17:54:31.050 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numHeapArenas: 32
+17:54:31.050 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numDirectArenas: 32
+17:54:31.050 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.pageSize: 8192
+17:54:31.050 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxOrder: 11
+17:54:31.050 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.chunkSize: 16777216
+17:54:31.050 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.tinyCacheSize: 512
+17:54:31.050 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.smallCacheSize: 256
+17:54:31.050 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.normalCacheSize: 64
+17:54:31.050 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+17:54:31.050 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimInterval: 8192
+17:54:31.051 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+17:54:31.051 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.useCacheForAllThreads: true
+17:54:31.051 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+17:54:31.450 [main] DEBUG org.hibernate.validator.internal.engine.resolver.TraversableResolvers - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+17:54:31.450 [main] DEBUG org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator - Loaded expression factory via original TCCL
+17:54:31.458 [main] DEBUG org.hibernate.validator.internal.engine.resolver.TraversableResolvers - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+17:54:31.460 [main] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+17:54:31.460 [main] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+17:54:31.461 [main] DEBUG org.hibernate.validator.internal.engine.ConfigurationImpl - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+17:54:31.462 [main] DEBUG org.hibernate.validator.internal.xml.config.ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+17:54:31.463 [main] DEBUG org.hibernate.validator.internal.xml.config.ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+17:54:31.463 [main] DEBUG org.hibernate.validator.internal.xml.config.ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+17:54:31.464 [main] DEBUG org.hibernate.validator.internal.xml.config.ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+17:54:31.464 [main] DEBUG org.hibernate.validator.internal.xml.config.ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+17:54:31.471 [main] DEBUG org.hibernate.validator.internal.engine.ValidatorFactoryImpl - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+17:54:31.471 [main] DEBUG org.hibernate.validator.internal.engine.ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+17:54:31.472 [main] DEBUG org.hibernate.validator.internal.engine.ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+17:54:31.472 [main] DEBUG org.hibernate.validator.internal.engine.ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+17:54:31.472 [main] DEBUG org.hibernate.validator.internal.engine.ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+17:54:32.664 [main] INFO  com.bmw.seed.test.DemoTest - Started DemoTest in 3.993 seconds (JVM running for 5.012)
+17:54:32.932 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+17:54:32.932 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+17:54:32.932 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+17:54:32.932 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+17:54:32.932 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+17:54:32.932 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+17:54:32.932 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+17:54:32.932 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+17:54:32.933 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+17:54:32.933 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+17:54:33.030 [pool-3-thread-4] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+17:54:33.193 [pool-3-thread-2] DEBUG com.bmw.seed.dao.SeckillUserDao.selectUserById - ==>  Preparing: select count(*) from seckill_user where id = ? 
+17:54:33.193 [pool-3-thread-5] DEBUG com.bmw.seed.dao.SeckillUserDao.selectUserById - ==>  Preparing: select count(*) from seckill_user where id = ? 
+17:54:33.193 [pool-3-thread-3] DEBUG com.bmw.seed.dao.SeckillUserDao.selectUserById - ==>  Preparing: select count(*) from seckill_user where id = ? 
+17:54:33.199 [pool-3-thread-1] DEBUG com.bmw.seed.dao.SeckillUserDao.selectUserById - ==>  Preparing: select count(*) from seckill_user where id = ? 
+17:54:33.204 [pool-3-thread-4] DEBUG com.bmw.seed.dao.SeckillUserDao.selectUserById - ==>  Preparing: select count(*) from seckill_user where id = ? 
+17:54:33.227 [pool-3-thread-5] DEBUG com.bmw.seed.dao.SeckillUserDao.selectUserById - ==> Parameters: 5(Long)
+17:54:33.227 [pool-3-thread-1] DEBUG com.bmw.seed.dao.SeckillUserDao.selectUserById - ==> Parameters: 1(Long)
+17:54:33.227 [pool-3-thread-3] DEBUG com.bmw.seed.dao.SeckillUserDao.selectUserById - ==> Parameters: 3(Long)
+17:54:33.227 [pool-3-thread-2] DEBUG com.bmw.seed.dao.SeckillUserDao.selectUserById - ==> Parameters: 2(Long)
+17:54:33.227 [pool-3-thread-4] DEBUG com.bmw.seed.dao.SeckillUserDao.selectUserById - ==> Parameters: 4(Long)
+17:54:33.252 [pool-3-thread-1] DEBUG com.bmw.seed.dao.SeckillUserDao.selectUserById - <==      Total: 1
+17:54:33.252 [pool-3-thread-4] DEBUG com.bmw.seed.dao.SeckillUserDao.selectUserById - <==      Total: 1
+17:54:33.252 [pool-3-thread-3] DEBUG com.bmw.seed.dao.SeckillUserDao.selectUserById - <==      Total: 1
+17:54:33.252 [pool-3-thread-2] DEBUG com.bmw.seed.dao.SeckillUserDao.selectUserById - <==      Total: 1
+17:54:33.252 [pool-3-thread-5] DEBUG com.bmw.seed.dao.SeckillUserDao.selectUserById - <==      Total: 1
+17:54:33.254 [pool-3-thread-3] DEBUG com.bmw.seed.dao.SeckillProductDao.selectProById - ==>  Preparing: select count(*) from seckill_products where id = ? 
+17:54:33.254 [pool-3-thread-2] DEBUG com.bmw.seed.dao.SeckillProductDao.selectProById - ==>  Preparing: select count(*) from seckill_products where id = ? 
+17:54:33.254 [pool-3-thread-1] DEBUG com.bmw.seed.dao.SeckillProductDao.selectProById - ==>  Preparing: select count(*) from seckill_products where id = ? 
+17:54:33.254 [pool-3-thread-5] DEBUG com.bmw.seed.dao.SeckillProductDao.selectProById - ==>  Preparing: select count(*) from seckill_products where id = ? 
+17:54:33.254 [pool-3-thread-4] DEBUG com.bmw.seed.dao.SeckillProductDao.selectProById - ==>  Preparing: select count(*) from seckill_products where id = ? 
+17:54:33.254 [pool-3-thread-3] DEBUG com.bmw.seed.dao.SeckillProductDao.selectProById - ==> Parameters: 1(Long)
+17:54:33.254 [pool-3-thread-2] DEBUG com.bmw.seed.dao.SeckillProductDao.selectProById - ==> Parameters: 1(Long)
+17:54:33.254 [pool-3-thread-4] DEBUG com.bmw.seed.dao.SeckillProductDao.selectProById - ==> Parameters: 1(Long)
+17:54:33.254 [pool-3-thread-1] DEBUG com.bmw.seed.dao.SeckillProductDao.selectProById - ==> Parameters: 1(Long)
+17:54:33.254 [pool-3-thread-5] DEBUG com.bmw.seed.dao.SeckillProductDao.selectProById - ==> Parameters: 1(Long)
+17:54:33.256 [pool-3-thread-1] DEBUG com.bmw.seed.dao.SeckillProductDao.selectProById - <==      Total: 1
+17:54:33.256 [pool-3-thread-3] DEBUG com.bmw.seed.dao.SeckillProductDao.selectProById - <==      Total: 1
+17:54:33.256 [pool-3-thread-2] DEBUG com.bmw.seed.dao.SeckillProductDao.selectProById - <==      Total: 1
+17:54:33.256 [pool-3-thread-5] DEBUG com.bmw.seed.dao.SeckillProductDao.selectProById - <==      Total: 1
+17:54:33.256 [pool-3-thread-4] DEBUG com.bmw.seed.dao.SeckillProductDao.selectProById - <==      Total: 1
+17:54:33.256 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+17:54:33.256 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+17:54:33.256 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+17:54:33.257 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+17:54:33.257 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+17:54:33.257 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+17:54:33.257 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+17:54:33.257 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+17:54:33.257 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+17:54:33.257 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+17:54:33.257 [pool-3-thread-3] DEBUG com.bmw.seed.dao.SeckillProductDao.fetch - ==>  Preparing: select id, name, count, saled, create_time, is_deleted from seckill_products where id = ? 
+17:54:33.257 [pool-3-thread-4] DEBUG com.bmw.seed.dao.SeckillProductDao.fetch - ==>  Preparing: select id, name, count, saled, create_time, is_deleted from seckill_products where id = ? 
+17:54:33.257 [pool-3-thread-5] DEBUG com.bmw.seed.dao.SeckillProductDao.fetch - ==>  Preparing: select id, name, count, saled, create_time, is_deleted from seckill_products where id = ? 
+17:54:33.257 [pool-3-thread-2] DEBUG com.bmw.seed.dao.SeckillProductDao.fetch - ==>  Preparing: select id, name, count, saled, create_time, is_deleted from seckill_products where id = ? 
+17:54:33.257 [pool-3-thread-1] DEBUG com.bmw.seed.dao.SeckillProductDao.fetch - ==>  Preparing: select id, name, count, saled, create_time, is_deleted from seckill_products where id = ? 
+17:54:33.258 [pool-3-thread-3] DEBUG com.bmw.seed.dao.SeckillProductDao.fetch - ==> Parameters: 1(Long)
+17:54:33.258 [pool-3-thread-4] DEBUG com.bmw.seed.dao.SeckillProductDao.fetch - ==> Parameters: 1(Long)
+17:54:33.258 [pool-3-thread-1] DEBUG com.bmw.seed.dao.SeckillProductDao.fetch - ==> Parameters: 1(Long)
+17:54:33.258 [pool-3-thread-5] DEBUG com.bmw.seed.dao.SeckillProductDao.fetch - ==> Parameters: 1(Long)
+17:54:33.258 [pool-3-thread-2] DEBUG com.bmw.seed.dao.SeckillProductDao.fetch - ==> Parameters: 1(Long)
+17:54:33.263 [pool-3-thread-1] DEBUG com.bmw.seed.dao.SeckillProductDao.fetch - <==      Total: 1
+17:54:33.263 [pool-3-thread-4] DEBUG com.bmw.seed.dao.SeckillProductDao.fetch - <==      Total: 1
+17:54:33.263 [pool-3-thread-2] DEBUG com.bmw.seed.dao.SeckillProductDao.fetch - <==      Total: 1
+17:54:33.263 [pool-3-thread-5] DEBUG com.bmw.seed.dao.SeckillProductDao.fetch - <==      Total: 1
+17:54:33.263 [pool-3-thread-3] DEBUG com.bmw.seed.dao.SeckillProductDao.fetch - <==      Total: 1
+17:54:33.264 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+17:54:33.264 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+17:54:33.264 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+17:54:33.264 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+17:54:33.264 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+17:54:33.265 [pool-3-thread-3] DEBUG com.bmw.seed.dao.SeckillOrderDao.list - ==>  Preparing: select id, user_id, product_id, product_name, create_time from seckill_order where product_id = ? and user_id = ? 
+17:54:33.265 [pool-3-thread-2] DEBUG com.bmw.seed.dao.SeckillOrderDao.list - ==>  Preparing: select id, user_id, product_id, product_name, create_time from seckill_order where product_id = ? and user_id = ? 
+17:54:33.265 [pool-3-thread-1] DEBUG com.bmw.seed.dao.SeckillOrderDao.list - ==>  Preparing: select id, user_id, product_id, product_name, create_time from seckill_order where product_id = ? and user_id = ? 
+17:54:33.265 [pool-3-thread-4] DEBUG com.bmw.seed.dao.SeckillOrderDao.list - ==>  Preparing: select id, user_id, product_id, product_name, create_time from seckill_order where product_id = ? and user_id = ? 
+17:54:33.265 [pool-3-thread-5] DEBUG com.bmw.seed.dao.SeckillOrderDao.list - ==>  Preparing: select id, user_id, product_id, product_name, create_time from seckill_order where product_id = ? and user_id = ? 
+17:54:33.267 [pool-3-thread-1] DEBUG com.bmw.seed.dao.SeckillOrderDao.list - ==> Parameters: 1(Long), 1(Long)
+17:54:33.267 [pool-3-thread-2] DEBUG com.bmw.seed.dao.SeckillOrderDao.list - ==> Parameters: 1(Long), 2(Long)
+17:54:33.267 [pool-3-thread-4] DEBUG com.bmw.seed.dao.SeckillOrderDao.list - ==> Parameters: 1(Long), 4(Long)
+17:54:33.267 [pool-3-thread-3] DEBUG com.bmw.seed.dao.SeckillOrderDao.list - ==> Parameters: 1(Long), 3(Long)
+17:54:33.267 [pool-3-thread-5] DEBUG com.bmw.seed.dao.SeckillOrderDao.list - ==> Parameters: 1(Long), 5(Long)
+17:54:33.270 [pool-3-thread-4] DEBUG com.bmw.seed.dao.SeckillOrderDao.list - <==      Total: 1
+17:54:33.270 [pool-3-thread-2] DEBUG com.bmw.seed.dao.SeckillOrderDao.list - <==      Total: 1
+17:54:33.270 [pool-3-thread-3] DEBUG com.bmw.seed.dao.SeckillOrderDao.list - <==      Total: 1
+17:54:33.270 [pool-3-thread-1] DEBUG com.bmw.seed.dao.SeckillOrderDao.list - <==      Total: 1
+17:54:33.270 [pool-3-thread-5] DEBUG com.bmw.seed.dao.SeckillOrderDao.list - <==      Total: 1
+17:54:33.272 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===用户重复下单===
+17:54:33.272 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===用户重复下单===
+17:54:33.272 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===用户重复下单===
+17:54:33.272 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===用户重复下单===
+17:54:33.272 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===用户重复下单===
+17:54:33.273 [pool-3-thread-4] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-4创建了一个线程执行：
+17:54:33.273 [pool-3-thread-2] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-2创建了一个线程执行：
+17:54:33.273 [pool-3-thread-1] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-1创建了一个线程执行：
+17:54:33.273 [pool-3-thread-3] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-3创建了一个线程执行：
+17:54:33.273 [pool-3-thread-5] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-5创建了一个线程执行：
+17:54:42.946 [Thread-2] DEBUG io.lettuce.core.RedisClient - Initiate shutdown (100, 100, MILLISECONDS)
+17:54:42.954 [Thread-2] DEBUG io.lettuce.core.resource.DefaultClientResources - Initiate shutdown (0, 2, SECONDS)
+17:54:42.954 [Thread-2] DEBUG io.lettuce.core.resource.DefaultEventLoopGroupProvider - Initiate shutdown (0, 2, SECONDS)
+17:54:42.961 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+17:54:42.969 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed

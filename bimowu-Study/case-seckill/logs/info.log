@@ -1,0 +1,727 @@
+14:02:11.820 [main] INFO  com.bmw.seed.test.DemoTest - Starting DemoTest on LAPTOP-E6B2N0T6 with PID 12776 (started by yuxc in E:\yuxc\xyz\bimowu-Study\case-seckill)
+14:02:11.829 [main] INFO  com.bmw.seed.test.DemoTest - No active profile set, falling back to default profiles: default
+14:02:16.141 [main] INFO  com.bmw.seed.test.DemoTest - Started DemoTest in 4.895 seconds (JVM running for 6.36)
+14:02:26.563 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+14:06:19.346 [main] INFO  com.bmw.seed.test.DemoTest - Starting DemoTest on LAPTOP-E6B2N0T6 with PID 16976 (started by yuxc in E:\yuxc\xyz\bimowu-Study\case-seckill)
+14:06:19.353 [main] INFO  com.bmw.seed.test.DemoTest - No active profile set, falling back to default profiles: default
+14:06:23.608 [main] INFO  com.bmw.seed.test.DemoTest - Started DemoTest in 4.755 seconds (JVM running for 6.109)
+14:06:23.819 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:06:23.819 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:06:23.819 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:06:23.819 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:06:23.820 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:06:23.819 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:06:23.820 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:06:23.820 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:06:23.820 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:06:23.820 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:06:23.983 [pool-3-thread-4] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+14:06:33.864 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+14:06:33.881 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+14:10:49.010 [main] INFO  com.bmw.seed.test.DemoTest - Starting DemoTest on LAPTOP-E6B2N0T6 with PID 14436 (started by yuxc in E:\yuxc\xyz\bimowu-Study\case-seckill)
+14:10:49.018 [main] INFO  com.bmw.seed.test.DemoTest - No active profile set, falling back to default profiles: default
+14:10:53.314 [main] INFO  com.bmw.seed.test.DemoTest - Started DemoTest in 4.839 seconds (JVM running for 6.156)
+14:10:53.530 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:10:53.530 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:10:53.530 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:10:53.530 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:10:53.530 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:10:53.531 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:10:53.531 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:10:53.531 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:10:53.531 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:10:53.531 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:10:53.631 [pool-3-thread-5] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+14:11:03.578 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+14:11:03.595 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+14:14:11.351 [main] INFO  com.bmw.seed.test.DemoTest - Starting DemoTest on LAPTOP-E6B2N0T6 with PID 2056 (started by yuxc in E:\yuxc\xyz\bimowu-Study\case-seckill)
+14:14:11.362 [main] INFO  com.bmw.seed.test.DemoTest - No active profile set, falling back to default profiles: default
+14:14:16.105 [main] INFO  com.bmw.seed.test.DemoTest - Started DemoTest in 5.393 seconds (JVM running for 7.551)
+14:14:16.359 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:14:16.359 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:14:16.359 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:14:16.359 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:14:16.361 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:14:16.359 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:14:16.361 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:14:16.361 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:14:16.361 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:14:16.361 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:14:16.471 [pool-3-thread-3] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+14:16:40.648 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+14:16:40.667 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+14:16:46.774 [main] INFO  com.bmw.seed.test.DemoTest - Starting DemoTest on LAPTOP-E6B2N0T6 with PID 15884 (started by yuxc in E:\yuxc\xyz\bimowu-Study\case-seckill)
+14:16:46.783 [main] INFO  com.bmw.seed.test.DemoTest - No active profile set, falling back to default profiles: default
+14:16:51.361 [main] INFO  com.bmw.seed.test.DemoTest - Started DemoTest in 5.178 seconds (JVM running for 6.843)
+14:16:51.607 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:16:51.607 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:16:51.607 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:16:51.607 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:16:51.607 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:16:51.608 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:16:51.608 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:16:51.608 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:16:51.608 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:16:51.608 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:16:51.729 [pool-3-thread-5] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+14:17:25.620 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:17:25.620 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:17:25.620 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:17:25.620 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:17:25.620 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:17:25.622 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:17:25.622 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:17:25.622 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:17:25.622 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:17:25.622 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:17:25.683 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+14:17:25.704 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+14:17:31.941 [main] INFO  com.bmw.seed.test.DemoTest - Starting DemoTest on LAPTOP-E6B2N0T6 with PID 17968 (started by yuxc in E:\yuxc\xyz\bimowu-Study\case-seckill)
+14:17:31.948 [main] INFO  com.bmw.seed.test.DemoTest - No active profile set, falling back to default profiles: default
+14:17:36.079 [main] INFO  com.bmw.seed.test.DemoTest - Started DemoTest in 4.696 seconds (JVM running for 6.058)
+14:17:36.336 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:17:36.336 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:17:36.336 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:17:36.336 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:17:36.336 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:17:36.336 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:17:36.336 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:17:36.336 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:17:36.336 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:17:36.337 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:17:36.447 [pool-3-thread-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+14:17:36.704 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:17:36.704 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:17:36.704 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:17:36.704 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:17:36.704 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:17:36.704 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:17:36.704 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:17:36.704 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:17:36.704 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:17:36.704 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:17:46.381 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+14:17:46.397 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+14:30:35.626 [main] INFO  com.bmw.seed.test.DemoTest - Starting DemoTest on LAPTOP-E6B2N0T6 with PID 7836 (started by yuxc in E:\yuxc\xyz\bimowu-Study\case-seckill)
+14:30:35.632 [main] INFO  com.bmw.seed.test.DemoTest - No active profile set, falling back to default profiles: default
+14:30:39.019 [main] INFO  com.bmw.seed.test.DemoTest - Started DemoTest in 3.892 seconds (JVM running for 4.9)
+14:30:39.295 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:30:39.295 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:30:39.295 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:30:39.295 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:30:39.295 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:30:39.295 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:30:39.295 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:30:39.296 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:30:39.295 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:30:39.296 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:30:39.410 [pool-3-thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+14:30:39.641 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:30:39.641 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:30:39.641 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:30:39.641 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:30:39.641 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:30:39.641 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:30:39.641 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:30:39.641 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:30:39.641 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:30:39.641 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:30:49.328 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+14:30:49.335 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+14:33:30.339 [main] INFO  com.bmw.seed.test.DemoTest - Starting DemoTest on LAPTOP-E6B2N0T6 with PID 9584 (started by yuxc in E:\yuxc\xyz\bimowu-Study\case-seckill)
+14:33:30.345 [main] INFO  com.bmw.seed.test.DemoTest - No active profile set, falling back to default profiles: default
+14:33:33.879 [main] INFO  com.bmw.seed.test.DemoTest - Started DemoTest in 4.006 seconds (JVM running for 5.079)
+14:33:34.184 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:33:34.184 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:33:34.184 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:33:34.184 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:33:34.185 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:33:34.185 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:33:34.184 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:33:34.185 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:33:34.185 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:33:34.185 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:33:34.286 [pool-3-thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+14:33:34.509 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:33:34.509 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:33:34.509 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:33:34.509 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:33:34.509 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:33:34.509 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:33:34.509 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:33:34.509 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:33:34.510 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:33:34.510 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:33:44.210 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+14:33:44.218 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+14:34:37.564 [main] INFO  com.bmw.seed.test.DemoTest - Starting DemoTest on LAPTOP-E6B2N0T6 with PID 7884 (started by yuxc in E:\yuxc\xyz\bimowu-Study\case-seckill)
+14:34:37.570 [main] INFO  com.bmw.seed.test.DemoTest - No active profile set, falling back to default profiles: default
+14:34:40.983 [main] INFO  com.bmw.seed.test.DemoTest - Started DemoTest in 3.889 seconds (JVM running for 4.882)
+14:34:41.187 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:34:41.187 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:34:41.187 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:34:41.187 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:34:41.187 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:34:41.187 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:34:41.187 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:34:41.187 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:34:41.187 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:34:41.187 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:34:41.294 [pool-3-thread-3] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+14:34:41.556 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:34:41.556 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:34:41.556 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:34:41.556 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:34:41.556 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:34:41.556 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:34:41.556 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:34:41.557 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:34:41.557 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:34:41.557 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:34:51.214 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+14:34:51.224 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+14:37:44.098 [main] INFO  com.bmw.seed.test.DemoTest - Starting DemoTest on LAPTOP-E6B2N0T6 with PID 16644 (started by yuxc in E:\yuxc\xyz\bimowu-Study\case-seckill)
+14:37:44.104 [main] INFO  com.bmw.seed.test.DemoTest - No active profile set, falling back to default profiles: default
+14:37:47.467 [main] INFO  com.bmw.seed.test.DemoTest - Started DemoTest in 3.903 seconds (JVM running for 4.905)
+14:37:47.737 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:37:47.737 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:37:47.737 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:37:47.737 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:37:47.737 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:37:47.737 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:37:47.737 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:37:47.738 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:37:47.738 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:37:47.737 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:37:47.856 [pool-3-thread-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+14:37:48.094 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:37:48.094 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:37:48.094 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:37:48.094 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:37:48.094 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:37:48.094 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:37:48.094 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:37:48.094 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:37:48.094 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:37:48.094 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:37:48.101 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+14:37:48.101 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+14:37:48.101 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始扣减库存===
+14:37:48.101 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始扣减库存===
+14:37:48.102 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+14:37:48.102 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+14:37:48.103 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始扣减库存===
+14:37:48.103 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+14:37:48.103 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始扣减库存===
+14:37:48.103 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始扣减库存===
+14:37:48.144 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===修改库存成功===
+14:37:48.144 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===修改库存成功===
+14:37:48.144 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===修改库存成功===
+14:37:48.144 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===修改库存成功===
+14:37:48.144 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===修改库存成功===
+14:37:48.157 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+14:37:48.157 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+14:37:48.157 [pool-3-thread-4] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-4创建了一个线程执行：
+14:37:48.157 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+14:37:48.157 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+14:37:48.157 [pool-3-thread-3] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-3创建了一个线程执行：
+14:37:48.157 [pool-3-thread-2] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-2创建了一个线程执行：
+14:37:48.157 [pool-3-thread-1] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-1创建了一个线程执行：
+14:37:48.158 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+14:37:48.158 [pool-3-thread-5] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-5创建了一个线程执行：
+14:37:57.760 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+14:37:57.769 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+14:41:29.250 [main] INFO  com.bmw.seed.test.DemoTest - Starting DemoTest on LAPTOP-E6B2N0T6 with PID 14888 (started by yuxc in E:\yuxc\xyz\bimowu-Study\case-seckill)
+14:41:29.257 [main] INFO  com.bmw.seed.test.DemoTest - No active profile set, falling back to default profiles: default
+14:41:32.762 [main] INFO  com.bmw.seed.test.DemoTest - Started DemoTest in 3.991 seconds (JVM running for 5.036)
+14:41:33.018 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:41:33.018 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:41:33.018 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:41:33.018 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:41:33.019 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:41:33.018 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:41:33.019 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:41:33.019 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:41:33.019 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:41:33.019 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:41:33.150 [pool-3-thread-5] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+14:41:33.393 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:41:33.393 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:41:33.393 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:41:33.393 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:41:33.393 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:41:33.393 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:41:33.393 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:41:33.393 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:41:33.393 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:41:33.393 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:41:33.400 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+14:41:33.400 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+14:41:33.400 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+14:41:33.400 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+14:41:33.400 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始扣减库存===
+14:41:33.400 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+14:41:33.400 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始扣减库存===
+14:41:33.400 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始扣减库存===
+14:41:33.400 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始扣减库存===
+14:41:33.400 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始扣减库存===
+14:41:33.447 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===修改库存成功===
+14:41:33.447 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===修改库存成功===
+14:41:33.447 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===修改库存成功===
+14:41:33.447 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===修改库存成功===
+14:41:33.447 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===修改库存成功===
+14:41:33.464 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+14:41:33.464 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+14:41:33.464 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+14:41:33.464 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+14:41:33.464 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+14:41:33.464 [pool-3-thread-2] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-2创建了一个线程执行：
+14:41:33.464 [pool-3-thread-3] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-3创建了一个线程执行：
+14:41:33.464 [pool-3-thread-5] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-5创建了一个线程执行：
+14:41:33.464 [pool-3-thread-1] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-1创建了一个线程执行：
+14:41:33.464 [pool-3-thread-4] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-4创建了一个线程执行：
+14:41:43.041 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+14:41:43.048 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+14:45:15.721 [main] INFO  com.bmw.seed.test.DemoTest - Starting DemoTest on LAPTOP-E6B2N0T6 with PID 7156 (started by yuxc in E:\yuxc\xyz\bimowu-Study\case-seckill)
+14:45:15.728 [main] INFO  com.bmw.seed.test.DemoTest - No active profile set, falling back to default profiles: default
+14:45:19.273 [main] INFO  com.bmw.seed.test.DemoTest - Started DemoTest in 4.068 seconds (JVM running for 5.108)
+14:45:19.548 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:45:19.548 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:45:19.548 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:45:19.548 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:45:19.549 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:45:19.548 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:45:19.549 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:45:19.549 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:45:19.549 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:45:19.549 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:45:19.657 [pool-3-thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+14:45:19.919 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:45:19.919 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:45:19.919 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:45:19.919 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:45:19.919 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:45:19.919 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:45:19.919 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:45:19.919 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:45:19.919 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:45:19.919 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:45:19.928 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+14:45:19.928 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+14:45:19.928 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+14:45:19.928 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+14:45:19.928 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+14:45:19.928 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始扣减库存===
+14:45:19.929 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始扣减库存===
+14:45:19.929 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始扣减库存===
+14:45:19.929 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始扣减库存===
+14:45:19.929 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始扣减库存===
+14:45:19.980 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===修改库存成功===
+14:45:19.980 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===修改库存成功===
+14:45:19.981 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===修改库存成功===
+14:45:19.981 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===修改库存成功===
+14:45:19.981 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===修改库存成功===
+14:45:19.990 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+14:45:19.990 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+14:45:19.990 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:45:19.990 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:45:19.990 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:45:19.990 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:45:19.995 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+14:45:19.995 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:45:19.995 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:45:19.995 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+14:45:19.995 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+14:45:19.995 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:45:19.996 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:45:19.996 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:45:19.996 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:45:19.996 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:45:19.996 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:45:19.997 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:45:19.997 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:45:20.002 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:45:20.002 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:45:20.002 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+14:45:20.002 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始扣减库存===
+14:45:20.002 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+14:45:20.002 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始扣减库存===
+14:45:20.005 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:45:20.005 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:45:20.005 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:45:20.005 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:45:20.005 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+14:45:20.005 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始扣减库存===
+14:45:20.007 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===修改库存成功===
+14:45:20.007 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===修改库存成功===
+14:45:20.008 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+14:45:20.008 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+14:45:20.008 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始扣减库存===
+14:45:20.008 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始扣减库存===
+14:45:20.011 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===修改库存成功===
+14:45:20.012 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+14:45:20.012 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:45:20.012 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:45:20.013 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+14:45:20.013 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:45:20.013 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:45:20.013 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===修改库存成功===
+14:45:20.014 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===修改库存成功===
+14:45:20.016 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:45:20.016 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:45:20.016 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+14:45:20.017 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:45:20.017 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:45:20.018 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:45:20.018 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:45:20.018 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+14:45:20.019 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:45:20.019 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+14:45:20.019 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+14:45:20.019 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始扣减库存===
+14:45:20.019 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:45:20.019 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:45:20.019 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:45:20.021 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:45:20.021 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:45:20.021 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+14:45:20.021 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始扣减库存===
+14:45:20.023 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:45:20.023 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===修改库存成功===
+14:45:20.023 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:45:20.023 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:45:20.023 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:45:20.023 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+14:45:20.024 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始扣减库存===
+14:45:20.026 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===修改库存成功===
+14:45:20.026 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+14:45:20.026 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+14:45:20.026 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始扣减库存===
+14:45:20.026 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始扣减库存===
+14:45:20.029 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===修改库存成功===
+14:45:20.029 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+14:45:20.029 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:45:20.029 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:45:20.031 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===修改库存成功===
+14:45:20.031 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===修改库存成功===
+14:45:20.031 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+14:45:20.031 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:45:20.031 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:45:20.034 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+14:45:20.034 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:45:20.034 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:45:20.034 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:45:20.034 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:45:20.036 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+14:45:20.036 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:45:20.036 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:45:20.036 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:45:20.036 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:45:20.037 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+14:45:20.037 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:45:20.037 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:45:20.038 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:45:20.038 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:45:20.039 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+14:45:20.039 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+14:45:20.039 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始扣减库存===
+14:45:20.039 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始扣减库存===
+14:45:20.040 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:45:20.040 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:45:20.041 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:45:20.041 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:45:20.041 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+14:45:20.041 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始扣减库存===
+14:45:20.044 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+14:45:20.044 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+14:45:20.044 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始扣减库存===
+14:45:20.044 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始扣减库存===
+14:45:20.044 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===修改库存成功===
+14:45:20.045 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===修改库存成功===
+14:45:20.046 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===修改库存成功===
+14:45:20.048 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===修改库存成功===
+14:45:20.049 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===修改库存成功===
+14:45:20.052 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+14:45:20.052 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+14:45:20.052 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:45:20.052 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:45:20.052 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:45:20.052 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:45:20.053 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+14:45:20.053 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:45:20.053 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:45:20.054 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+14:45:20.054 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:45:20.054 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+14:45:20.054 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:45:20.054 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+14:45:20.054 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+14:45:20.056 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:45:20.056 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:45:20.056 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:45:20.056 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:45:20.058 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:45:20.058 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:45:20.058 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+14:45:20.059 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:45:20.059 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始扣减库存===
+14:45:20.059 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+14:45:20.059 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:45:20.059 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+14:45:20.059 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+14:45:20.059 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始扣减库存===
+14:45:20.063 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+14:45:20.064 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始扣减库存===
+14:45:20.064 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+14:45:20.064 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+14:45:20.064 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始扣减库存===
+14:45:20.064 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始扣减库存===
+14:45:20.066 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===修改库存成功===
+14:45:20.066 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===修改库存成功===
+14:45:20.069 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===修改库存成功===
+14:45:20.070 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===修改库存成功===
+14:45:20.070 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===修改库存成功===
+14:45:20.072 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+14:45:20.072 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+14:45:20.072 [pool-3-thread-5] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-5创建了一个线程执行：
+14:45:20.072 [pool-3-thread-4] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-4创建了一个线程执行：
+14:45:20.074 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+14:45:20.074 [pool-3-thread-1] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-1创建了一个线程执行：
+14:45:20.074 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+14:45:20.074 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+14:45:20.074 [pool-3-thread-2] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-2创建了一个线程执行：
+14:45:20.074 [pool-3-thread-3] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-3创建了一个线程执行：
+14:45:29.578 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+14:45:29.586 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+16:52:44.055 [main] INFO  com.bmw.seed.test.DemoTest - Starting DemoTest on LAPTOP-E6B2N0T6 with PID 18156 (started by yuxc in E:\yuxc\xyz\bimowu-Study\case-seckill)
+16:52:44.062 [main] INFO  com.bmw.seed.test.DemoTest - No active profile set, falling back to default profiles: default
+16:52:47.574 [main] INFO  com.bmw.seed.test.DemoTest - Started DemoTest in 4.051 seconds (JVM running for 5.071)
+16:52:47.831 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+16:52:47.831 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+16:52:47.831 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+16:52:47.831 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+16:52:47.831 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+16:52:47.831 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+16:52:47.831 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+16:52:47.831 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+16:52:47.831 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+16:52:47.832 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+16:52:47.931 [pool-3-thread-5] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+16:52:48.147 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+16:52:48.147 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+16:52:48.147 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+16:52:48.147 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+16:52:48.147 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+16:52:48.147 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+16:52:48.147 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+16:52:48.147 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+16:52:48.147 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+16:52:48.147 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+16:52:48.154 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+16:52:48.154 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+16:52:48.154 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+16:52:48.154 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+16:52:48.154 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+16:52:48.155 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===下单逻辑starting===
+16:52:48.155 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===下单逻辑starting===
+16:52:48.155 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===下单逻辑starting===
+16:52:48.155 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===下单逻辑starting===
+16:52:48.155 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===下单逻辑starting===
+16:52:48.168 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===扣减库存成功===
+16:52:48.168 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===扣减库存成功===
+16:52:48.168 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===扣减库存成功===
+16:52:48.168 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===扣减库存成功===
+16:52:48.168 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===扣减库存成功===
+16:52:48.190 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+16:52:48.190 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+16:52:48.190 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+16:52:48.191 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+16:52:48.191 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+16:52:48.191 [pool-3-thread-5] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-5创建了一个线程执行：
+16:52:48.191 [pool-3-thread-4] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-4创建了一个线程执行：
+16:52:48.191 [pool-3-thread-3] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-3创建了一个线程执行：
+16:52:48.191 [pool-3-thread-2] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-2创建了一个线程执行：
+16:52:48.191 [pool-3-thread-1] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-1创建了一个线程执行：
+16:52:57.855 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+16:52:57.863 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+16:58:06.939 [main] INFO  com.bmw.seed.test.DemoTest - Starting DemoTest on LAPTOP-E6B2N0T6 with PID 16304 (started by yuxc in E:\yuxc\xyz\bimowu-Study\case-seckill)
+16:58:06.945 [main] INFO  com.bmw.seed.test.DemoTest - No active profile set, falling back to default profiles: default
+16:58:10.399 [main] INFO  com.bmw.seed.test.DemoTest - Started DemoTest in 3.97 seconds (JVM running for 5.078)
+16:58:20.646 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+16:58:38.190 [main] INFO  com.bmw.seed.test.DemoTest - Starting DemoTest on LAPTOP-E6B2N0T6 with PID 11512 (started by yuxc in E:\yuxc\xyz\bimowu-Study\case-seckill)
+16:58:38.196 [main] INFO  com.bmw.seed.test.DemoTest - No active profile set, falling back to default profiles: default
+16:58:41.786 [main] INFO  com.bmw.seed.test.DemoTest - Started DemoTest in 4.087 seconds (JVM running for 5.054)
+16:58:52.057 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+16:59:08.040 [main] INFO  com.bmw.seed.test.DemoTest - Starting DemoTest on LAPTOP-E6B2N0T6 with PID 16924 (started by yuxc in E:\yuxc\xyz\bimowu-Study\case-seckill)
+16:59:08.047 [main] INFO  com.bmw.seed.test.DemoTest - No active profile set, falling back to default profiles: default
+16:59:11.735 [main] INFO  com.bmw.seed.test.DemoTest - Started DemoTest in 4.214 seconds (JVM running for 5.269)
+16:59:11.990 [pool-3-thread-1] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-1创建了一个线程执行：
+16:59:11.990 [pool-3-thread-3] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-3创建了一个线程执行：
+16:59:11.990 [pool-3-thread-2] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-2创建了一个线程执行：
+16:59:11.990 [pool-3-thread-5] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-5创建了一个线程执行：
+16:59:11.990 [pool-3-thread-4] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-4创建了一个线程执行：
+16:59:22.019 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+17:00:26.616 [main] INFO  com.bmw.seed.test.DemoTest - Starting DemoTest on LAPTOP-E6B2N0T6 with PID 15496 (started by yuxc in E:\yuxc\xyz\bimowu-Study\case-seckill)
+17:00:26.623 [main] INFO  com.bmw.seed.test.DemoTest - No active profile set, falling back to default profiles: default
+17:00:30.011 [main] INFO  com.bmw.seed.test.DemoTest - Started DemoTest in 3.896 seconds (JVM running for 4.952)
+17:00:30.287 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+17:00:30.287 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+17:00:30.289 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+17:00:30.287 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+17:00:30.287 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+17:00:30.287 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+17:00:30.287 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+17:00:30.289 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+17:00:30.289 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+17:00:30.290 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+17:00:30.394 [pool-3-thread-4] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+17:00:30.615 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+17:00:30.615 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+17:00:30.616 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+17:00:30.616 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+17:00:30.616 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+17:00:30.616 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+17:00:30.616 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+17:00:30.616 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+17:00:30.616 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+17:00:30.616 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+17:00:30.622 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+17:00:30.622 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+17:00:30.622 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+17:00:30.622 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+17:00:30.622 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+17:00:30.622 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===下单逻辑starting===
+17:00:30.622 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===下单逻辑starting===
+17:00:30.622 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===下单逻辑starting===
+17:00:30.622 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===下单逻辑starting===
+17:00:30.622 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===下单逻辑starting===
+17:00:30.639 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===扣减库存成功===
+17:00:30.639 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===扣减库存成功===
+17:00:30.639 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===扣减库存成功===
+17:00:30.640 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===扣减库存成功===
+17:00:30.640 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===扣减库存成功===
+17:00:30.654 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+17:00:30.655 [pool-3-thread-2] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-2创建了一个线程执行：
+17:00:30.659 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+17:00:30.659 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+17:00:30.659 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+17:00:30.660 [pool-3-thread-5] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-5创建了一个线程执行：
+17:00:30.660 [pool-3-thread-3] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-3创建了一个线程执行：
+17:00:30.660 [pool-3-thread-4] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-4创建了一个线程执行：
+17:00:30.660 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===创建订单成功===
+17:00:30.660 [pool-3-thread-1] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-1创建了一个线程执行：
+17:00:40.312 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+17:00:40.321 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+17:01:20.938 [main] INFO  com.bmw.seed.test.DemoTest - Starting DemoTest on LAPTOP-E6B2N0T6 with PID 15508 (started by yuxc in E:\yuxc\xyz\bimowu-Study\case-seckill)
+17:01:20.943 [main] INFO  com.bmw.seed.test.DemoTest - No active profile set, falling back to default profiles: default
+17:01:24.384 [main] INFO  com.bmw.seed.test.DemoTest - Started DemoTest in 3.949 seconds (JVM running for 4.997)
+17:01:24.644 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+17:01:24.644 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+17:01:24.644 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+17:01:24.644 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+17:01:24.644 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+17:01:24.644 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+17:01:24.644 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+17:01:24.644 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+17:01:24.644 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+17:01:24.645 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+17:01:24.747 [pool-3-thread-4] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+17:01:24.977 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+17:01:24.977 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+17:01:24.977 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+17:01:24.977 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+17:01:24.977 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+17:01:24.977 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+17:01:24.977 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+17:01:24.977 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+17:01:24.977 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+17:01:24.977 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+17:01:24.984 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===库存不足===
+17:01:24.984 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===库存不足===
+17:01:24.984 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===库存不足===
+17:01:24.984 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===库存不足===
+17:01:24.984 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===库存不足===
+17:01:24.985 [pool-3-thread-2] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-2创建了一个线程执行：
+17:01:24.985 [pool-3-thread-1] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-1创建了一个线程执行：
+17:01:24.985 [pool-3-thread-3] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-3创建了一个线程执行：
+17:01:24.985 [pool-3-thread-5] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-5创建了一个线程执行：
+17:01:24.985 [pool-3-thread-4] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-4创建了一个线程执行：
+17:01:34.667 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+17:01:34.676 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+17:53:49.643 [main] INFO  com.bmw.seed.test.DemoTest - Starting DemoTest on LAPTOP-E6B2N0T6 with PID 16848 (started by yuxc in E:\yuxc\xyz\bimowu-Study\case-seckill)
+17:53:49.650 [main] INFO  com.bmw.seed.test.DemoTest - No active profile set, falling back to default profiles: default
+17:53:53.149 [main] INFO  com.bmw.seed.test.DemoTest - Started DemoTest in 4.061 seconds (JVM running for 5.056)
+17:53:53.381 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+17:53:53.381 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+17:53:53.381 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+17:53:53.381 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+17:53:53.381 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+17:53:53.381 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+17:53:53.382 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+17:53:53.382 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+17:53:53.382 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+17:53:53.382 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+17:53:53.487 [pool-3-thread-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+17:53:53.731 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+17:53:53.731 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+17:53:53.731 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+17:53:53.731 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+17:53:53.731 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+17:53:53.731 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+17:53:53.731 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+17:53:53.731 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+17:53:53.731 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+17:53:53.731 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+17:53:53.739 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===库存不足===
+17:53:53.739 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===库存不足===
+17:53:53.739 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===库存不足===
+17:53:53.739 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===库存不足===
+17:53:53.739 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===库存不足===
+17:53:53.740 [pool-3-thread-5] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-5创建了一个线程执行：
+17:53:53.740 [pool-3-thread-3] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-3创建了一个线程执行：
+17:53:53.740 [pool-3-thread-1] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-1创建了一个线程执行：
+17:53:53.740 [pool-3-thread-2] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-2创建了一个线程执行：
+17:53:53.740 [pool-3-thread-4] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-4创建了一个线程执行：
+17:54:03.402 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+17:54:03.411 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+17:54:29.140 [main] INFO  com.bmw.seed.test.DemoTest - Starting DemoTest on LAPTOP-E6B2N0T6 with PID 14848 (started by yuxc in E:\yuxc\xyz\bimowu-Study\case-seckill)
+17:54:29.146 [main] INFO  com.bmw.seed.test.DemoTest - No active profile set, falling back to default profiles: default
+17:54:32.664 [main] INFO  com.bmw.seed.test.DemoTest - Started DemoTest in 3.993 seconds (JVM running for 5.012)
+17:54:32.932 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+17:54:32.932 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+17:54:32.932 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+17:54:32.932 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+17:54:32.932 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+17:54:32.932 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===开始调用秒杀接口
+17:54:32.932 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+17:54:32.932 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+17:54:32.933 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+17:54:32.933 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ======验证参数=======
+17:54:33.030 [pool-3-thread-4] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+17:54:33.256 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+17:54:33.256 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+17:54:33.256 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+17:54:33.257 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+17:54:33.257 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+17:54:33.257 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+17:54:33.257 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+17:54:33.257 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验数据是否合法通过===
+17:54:33.257 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+17:54:33.257 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ====校验 库存是否足够===
+17:54:33.264 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+17:54:33.264 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+17:54:33.264 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+17:54:33.264 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+17:54:33.264 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===校验库存是否充足通过====
+17:54:33.272 [pool-3-thread-2] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===用户重复下单===
+17:54:33.272 [pool-3-thread-5] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===用户重复下单===
+17:54:33.272 [pool-3-thread-4] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===用户重复下单===
+17:54:33.272 [pool-3-thread-1] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===用户重复下单===
+17:54:33.272 [pool-3-thread-3] INFO  com.bmw.seed.service.impl.SeckillServiceImpl - ===用户重复下单===
+17:54:33.273 [pool-3-thread-4] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-4创建了一个线程执行：
+17:54:33.273 [pool-3-thread-3] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-3创建了一个线程执行：
+17:54:33.273 [pool-3-thread-5] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-5创建了一个线程执行：
+17:54:33.273 [pool-3-thread-1] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-1创建了一个线程执行：
+17:54:33.273 [pool-3-thread-2] INFO  com.bmw.seed.test.DemoTest - pool-3-thread-2创建了一个线程执行：
+17:54:42.961 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+17:54:42.969 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed

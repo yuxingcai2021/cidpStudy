@@ -1,0 +1,45 @@
+17:51:34.278 [main] INFO  com.bmw.seed.test.DemoTest - Starting DemoTest on LAPTOP-E6B2N0T6 with PID 6132 (started by yuxc in E:\yuxc\xyz\bimowu-Study\case-rank-dynamic)
+17:51:34.284 [main] INFO  com.bmw.seed.test.DemoTest - No active profile set, falling back to default profiles: default
+17:51:35.930 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+17:54:13.141 [main] INFO  com.bmw.seed.test.DemoTest - Starting DemoTest on LAPTOP-E6B2N0T6 with PID 4664 (started by yuxc in E:\yuxc\xyz\bimowu-Study\case-rank-dynamic)
+17:54:13.147 [main] INFO  com.bmw.seed.test.DemoTest - No active profile set, falling back to default profiles: default
+17:54:17.031 [main] INFO  com.bmw.seed.test.DemoTest - Started DemoTest in 4.325 seconds (JVM running for 6.118)
+17:54:17.345 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+17:55:11.709 [main] INFO  com.bmw.seed.test.DemoTest - Starting DemoTest on LAPTOP-E6B2N0T6 with PID 22660 (started by yuxc in E:\yuxc\xyz\bimowu-Study\case-rank-dynamic)
+17:55:11.718 [main] INFO  com.bmw.seed.test.DemoTest - No active profile set, falling back to default profiles: default
+17:55:15.683 [main] INFO  com.bmw.seed.test.DemoTest - Started DemoTest in 4.44 seconds (JVM running for 5.799)
+17:55:16.060 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+17:55:16.416 [main] INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+17:55:16.417 [main] INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+17:55:18.360 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+17:55:18.367 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+17:56:11.450 [main] INFO  com.bmw.seed.test.DemoTest - Starting DemoTest on LAPTOP-E6B2N0T6 with PID 12092 (started by yuxc in E:\yuxc\xyz\bimowu-Study\case-rank-dynamic)
+17:56:11.457 [main] INFO  com.bmw.seed.test.DemoTest - No active profile set, falling back to default profiles: default
+17:56:15.209 [main] INFO  com.bmw.seed.test.DemoTest - Started DemoTest in 4.192 seconds (JVM running for 5.626)
+17:56:15.498 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+17:56:15.775 [main] INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+17:56:15.776 [main] INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+17:56:17.727 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+17:56:17.735 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+17:56:32.468 [main] INFO  com.bmw.seed.test.DemoTest - Starting DemoTest on LAPTOP-E6B2N0T6 with PID 16796 (started by yuxc in E:\yuxc\xyz\bimowu-Study\case-rank-dynamic)
+17:56:32.475 [main] INFO  com.bmw.seed.test.DemoTest - No active profile set, falling back to default profiles: default
+17:56:36.443 [main] INFO  com.bmw.seed.test.DemoTest - Started DemoTest in 4.476 seconds (JVM running for 5.817)
+17:56:36.693 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+17:56:36.955 [main] INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+17:56:36.957 [main] INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+17:58:12.136 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+17:58:12.143 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+17:58:15.317 [main] INFO  com.bmw.seed.test.DemoTest - Starting DemoTest on LAPTOP-E6B2N0T6 with PID 20904 (started by yuxc in E:\yuxc\xyz\bimowu-Study\case-rank-dynamic)
+17:58:15.324 [main] INFO  com.bmw.seed.test.DemoTest - No active profile set, falling back to default profiles: default
+17:58:19.228 [main] INFO  com.bmw.seed.test.DemoTest - Started DemoTest in 4.403 seconds (JVM running for 5.733)
+17:58:19.487 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+17:58:19.751 [main] INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+17:58:19.753 [main] INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+17:59:02.945 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+17:59:02.957 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+17:59:12.039 [main] INFO  com.bmw.seed.test.DemoTest - Starting DemoTest on LAPTOP-E6B2N0T6 with PID 5212 (started by yuxc in E:\yuxc\xyz\bimowu-Study\case-rank-dynamic)
+17:59:12.047 [main] INFO  com.bmw.seed.test.DemoTest - No active profile set, falling back to default profiles: default
+17:59:15.634 [main] INFO  com.bmw.seed.test.DemoTest - Started DemoTest in 4.081 seconds (JVM running for 5.127)
+17:59:16.028 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+17:59:16.400 [main] INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+17:59:16.402 [main] INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library

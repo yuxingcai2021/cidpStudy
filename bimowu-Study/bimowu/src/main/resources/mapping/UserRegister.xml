@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.bmw.seed.dao.UserDao">
+
+    <resultMap id="UserRegistInfo" type="com.bmw.seed.model.User">
+        <id property="id" column="id"/>
+        <result property="phone" column="phone"/>
+        <result property="password" column="password"/>
+        <result property="createTime" column="create_time"/>
+        <result property="updateTime" column="update_time"/>
+    </resultMap>
+
+    <sql id="Base_Column_List">
+        id,phone,password,create_time,update_time
+    </sql>
+
+   <!-- insert的添加方法，id是自增主键，插入后要获得，所以用下面的selectKey方法，并且用After方式获取-->
+    <insert id="register" parameterType="com.bmw.seed.model.User">
+        insert into user_regist_info
+        (id,phone,password,create_time,update_time)
+        values
+        (#{id},#{phone},#{password},#{createTime},#{updateTime})
+
+        <selectKey  keyProperty="id" resultType="Long" order="AFTER">
+            select LAST_INSERT_ID()
+        </selectKey>
+    </insert>
+
+    <!--for update查询方法-->
+    <select id="fetchByPhoneForUpdate" resultMap="UserRegistInfo">
+        select
+        <include refid="Base_Column_List"/>
+        from user_regist_info
+        where
+        phone=#{phone} for update
+    </select>
+
+    <!--根据phone查询方法-->
+    <select id="getByPhone" resultMap="UserRegistInfo">
+        select
+        <include refid="Base_Column_List"/>
+        from user_regist_info
+        where
+        phone=#{phone}
+    </select>
+
+
+</mapper>

@@ -1,0 +1,56 @@
+10:04:18.303 [main] INFO  com.bmw.seed.SeedApplication - Starting SeedApplication on LAPTOP-E6B2N0T6 with PID 20136 (E:\yuxc\xyz\bimowu-Study\case-rank-dynamic\target\classes started by yuxc in E:\yuxc\xyz\bimowu-Study)
+10:04:18.319 [main] INFO  com.bmw.seed.SeedApplication - No active profile set, falling back to default profiles: default
+10:04:19.295 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+10:04:19.302 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+10:04:19.303 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+10:04:19.390 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+10:04:20.312 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+10:04:20.330 [main] INFO  com.bmw.seed.SeedApplication - Started SeedApplication in 2.619 seconds (JVM running for 3.458)
+16:46:47.195 [main] INFO  com.bmw.seed.SeedApplication - Starting SeedApplication on LAPTOP-E6B2N0T6 with PID 2844 (E:\yuxc\xyz\bimowu-Study\case-rank-dynamic\target\classes started by yuxc in E:\yuxc\xyz\bimowu-Study)
+16:46:47.202 [main] INFO  com.bmw.seed.SeedApplication - No active profile set, falling back to default profiles: default
+16:46:48.915 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+16:46:48.930 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+16:46:48.931 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+16:46:49.091 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:46:50.582 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+16:46:50.618 [main] INFO  com.bmw.seed.SeedApplication - Started SeedApplication in 3.978 seconds (JVM running for 5.451)
+16:47:50.830 [main] INFO  com.bmw.seed.SeedApplication - Starting SeedApplication on LAPTOP-E6B2N0T6 with PID 12872 (E:\yuxc\xyz\bimowu-Study\case-rank-dynamic\target\classes started by yuxc in E:\yuxc\xyz\bimowu-Study)
+16:47:50.842 [main] INFO  com.bmw.seed.SeedApplication - No active profile set, falling back to default profiles: default
+16:47:52.232 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+16:47:52.246 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+16:47:52.247 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+16:47:52.378 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:47:53.724 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+16:47:53.753 [main] INFO  com.bmw.seed.SeedApplication - Started SeedApplication in 3.45 seconds (JVM running for 4.681)
+16:47:58.919 [http-nio-80-exec-2] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:47:59.026 [http-nio-80-exec-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+16:47:59.463 [http-nio-80-exec-2] INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+16:47:59.465 [http-nio-80-exec-2] INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+16:48:22.959 [main] INFO  com.bmw.seed.SeedApplication - Starting SeedApplication on LAPTOP-E6B2N0T6 with PID 14964 (E:\yuxc\xyz\bimowu-Study\case-rank-dynamic\target\classes started by yuxc in E:\yuxc\xyz\bimowu-Study)
+16:48:22.967 [main] INFO  com.bmw.seed.SeedApplication - No active profile set, falling back to default profiles: default
+16:48:24.568 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+16:48:24.585 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+16:48:24.586 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+16:48:24.723 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:48:26.363 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+16:48:26.401 [main] INFO  com.bmw.seed.SeedApplication - Started SeedApplication in 4.073 seconds (JVM running for 5.572)
+16:48:40.657 [http-nio-80-exec-2] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:48:40.794 [http-nio-80-exec-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+16:48:41.171 [http-nio-80-exec-2] INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+16:48:41.175 [http-nio-80-exec-2] INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+17:02:54.662 [Thread-11] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+17:02:54.671 [Thread-11] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+17:03:01.237 [main] INFO  com.bmw.seed.SeedApplication - Starting SeedApplication on LAPTOP-E6B2N0T6 with PID 1744 (E:\yuxc\xyz\bimowu-Study\case-rank-dynamic\target\classes started by yuxc in E:\yuxc\xyz\bimowu-Study)
+17:03:01.245 [main] INFO  com.bmw.seed.SeedApplication - No active profile set, falling back to default profiles: default
+17:03:02.778 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+17:03:02.785 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+17:03:02.785 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+17:03:02.881 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+17:03:03.997 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+17:03:04.018 [main] INFO  com.bmw.seed.SeedApplication - Started SeedApplication in 3.446 seconds (JVM running for 4.902)
+17:03:07.721 [http-nio-80-exec-2] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+17:03:07.853 [http-nio-80-exec-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+17:03:08.257 [http-nio-80-exec-2] INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+17:03:08.259 [http-nio-80-exec-2] INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+21:33:42.907 [Thread-10] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+21:33:42.912 [Thread-10] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
